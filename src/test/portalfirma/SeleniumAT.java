@@ -55,11 +55,6 @@ public class SeleniumAT {
         Thread.sleep(5000);
         cf.logOut(driver, user);
         
-        user = new InfoUsers("user_prueba161@seguridata.com", "12121212Qw   .", 4, 0);
-        cf.loginUser(driver, user);
-        Thread.sleep(5000);
-        cf.logOut(driver, user);
-        
         driver.close();
     }
 }

@@ -45,7 +45,7 @@ public class CommonFunctions {
             assert element.getText().equals("Documentos pendientes");
         } catch (Exception e) {
             logger.error("Error en getLogin " + user.getLogin() + " " + e.getMessage());
-            publishIssue("getLogin", e.getMessage().substring(0, 20));
+            //publishIssue("getLogin", e.getMessage().substring(0, 20));
             logOut(driver, user);   
             driver.close();
         }
