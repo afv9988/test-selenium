@@ -27,7 +27,8 @@ public class SeleniumAT {
 
     static String PORTAL_FIRMA_URL = "https://afdevs.ddns.net/Portal_Firma_RNE_Web";
     static String PORTAL_AGENTE_URL = "https://afdevs.ddns.net/Portal_Agente_RNE_Web";
-    static String CURENT_PATH = "C:\\Users\\aoflores\\Documents\\NetBeansProjects\\SeleniumPortalFirma\\src\\resources";
+    //static String CURENT_PATH = "C:\\Users\\aoflores\\Documents\\NetBeansProjects\\SeleniumPortalFirma\\src\\resources";
+    static String CURENT_PATH = "C:\\Windows\\ServiceProfiles\\LocalService\\.jenkins\\workspace\\SeleniumTriggerGitHub";
 
     static WebDriver chromeDriverInit() {
         final ChromeOptions chromeOptions = new ChromeOptions();
@@ -51,12 +52,12 @@ public class SeleniumAT {
         CommonFunctions cf = new CommonFunctions();
 
         WebDriver driver = chromeDriverInit();
-        InfoUsers user = new InfoUsers("user_prueba160@seguridata.com", ".", 4, 0);
+        InfoUsers user = new InfoUsers("user_prueba160@seguridata.com", "12121212Qw.", 4, 0);
         cf.loginUser(driver, user);
         Thread.sleep(5000);
         cf.logOut(driver, user);
         
-        user = new InfoUsers("user_prueba161@seguridata.com", ".", 4, 0);
+        user = new InfoUsers("user_prueba161@seguridata.com", "12121212Qw.", 4, 0);
         cf.loginUser(driver, user);
         Thread.sleep(5000);
         cf.logOut(driver, user);
