@@ -23,7 +23,6 @@ public class SeleniumAT {
     /**
      * @param args the command line arguments
      */
-    private static final Logger logger = Logger.getLogger(SeleniumAT.class);
 
     static String PORTAL_FIRMA_URL = "https://afdevs.ddns.net/Portal_Firma_RNE_Web";
     static String PORTAL_AGENTE_URL = "https://afdevs.ddns.net/Portal_Agente_RNE_Web";
@@ -47,7 +46,6 @@ public class SeleniumAT {
     public static void main(String[] args) throws InterruptedException, Exception {
         System.setProperty("webdriver.chrome.driver", CURENT_PATH + "\\chromedriver.exe");
         System.setProperty(ChromeDriverService.CHROME_DRIVER_SILENT_OUTPUT_PROPERTY, "true");
-        java.util.logging.Logger.getLogger("org.openqa.selenium").setLevel(Level.OFF);
         
         CommonFunctions cf = new CommonFunctions();
 
@@ -57,7 +55,7 @@ public class SeleniumAT {
         Thread.sleep(5000);
         cf.logOut(driver, user);
         
-        user = new InfoUsers("user_prueba161@seguridata.com", "12121212Qw.", 4, 0);
+        user = new InfoUsers("user_prueba161@seguridata.com", "12121212Qw   .", 4, 0);
         cf.loginUser(driver, user);
         Thread.sleep(5000);
         cf.logOut(driver, user);
