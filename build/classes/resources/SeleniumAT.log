@@ -1,0 +1,1088 @@
+04-29 12:33:29.666 [Thread-0] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 1dpi48573@zwoho.comsg
+04-29 12:33:31.768 [Thread-2] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 2dpi48573@zwoho.comsg
+04-29 12:33:38.576 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 1dpi48573@zwoho.comsg
+04-29 12:33:40.480 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 2dpi48573@zwoho.comsg
+04-29 12:34:03.698 [Thread-0] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 1dpi48573@zwoho.comsg
+04-29 12:34:13.584 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:112)ine - Error en uploadDocumentInivted 2dpi48573@zwoho.comsg
+04-29 12:34:13.586 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 2dpi48573@zwoho.comsg
+04-29 12:34:13.651 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 2dpi48573@zwoho.comsg
+04-29 12:34:23.246 [Thread-0] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 1dpi48573@zwoho.comsg
+04-29 12:35:31.949 [Thread-0] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 1dpi48573@zwoho.comsg
+04-29 12:35:32.246 [Thread-0] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin 1dpi48573@zwoho.comsg
+04-29 12:35:32.246 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 1dpi48573@zwoho.comsg
+04-29 12:35:32.259 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 1dpi48573@zwoho.comsg
+04-29 12:35:32.361 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 1dpi48573@zwoho.comsg
+04-29 12:35:32.433 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:112)ine - Error en uploadDocumentInivted 1dpi48573@zwoho.comsg
+04-29 12:35:32.434 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 1dpi48573@zwoho.comsg
+04-29 12:35:32.451 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 1dpi48573@zwoho.comsg
+04-29 12:35:33.923 [Thread-2] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 2dpi48573@zwoho.comsg
+04-29 12:35:34.199 [Thread-2] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin 2dpi48573@zwoho.comsg
+04-29 12:35:34.199 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 2dpi48573@zwoho.comsg
+04-29 12:35:34.215 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 2dpi48573@zwoho.comsg
+04-29 12:35:34.289 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 2dpi48573@zwoho.comsg
+04-29 12:35:34.347 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:112)ine - Error en uploadDocumentInivted 2dpi48573@zwoho.comsg
+04-29 12:35:34.348 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 2dpi48573@zwoho.comsg
+04-29 12:35:34.363 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 2dpi48573@zwoho.comsg
+04-29 12:36:02.265 [Thread-0] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 1dpi48573@zwoho.comsg
+04-29 12:36:02.580 [Thread-0] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin 1dpi48573@zwoho.comsg
+04-29 12:36:02.580 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 1dpi48573@zwoho.comsg
+04-29 12:36:02.602 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 1dpi48573@zwoho.comsg
+04-29 12:36:02.698 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 1dpi48573@zwoho.comsg
+04-29 12:36:02.767 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:112)ine - Error en uploadDocumentInivted 1dpi48573@zwoho.comsg
+04-29 12:36:02.767 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 1dpi48573@zwoho.comsg
+04-29 12:36:02.782 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 1dpi48573@zwoho.comsg
+04-29 12:36:04.175 [Thread-2] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 2dpi48573@zwoho.comsg
+04-29 12:36:04.473 [Thread-2] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin 2dpi48573@zwoho.comsg
+04-29 12:36:04.474 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 2dpi48573@zwoho.comsg
+04-29 12:36:04.484 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 2dpi48573@zwoho.comsg
+04-29 12:36:04.539 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 2dpi48573@zwoho.comsg
+04-29 12:36:04.590 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:112)ine - Error en uploadDocumentInivted 2dpi48573@zwoho.comsg
+04-29 12:36:04.590 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 2dpi48573@zwoho.comsg
+04-29 12:36:04.603 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 2dpi48573@zwoho.comsg
+04-29 12:36:57.433 [Thread-0] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 1dpi48573@zwoho.comsg
+04-29 12:36:59.493 [Thread-2] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 2dpi48573@zwoho.comsg
+04-29 12:37:05.539 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 1dpi48573@zwoho.comsg
+04-29 12:37:08.133 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 2dpi48573@zwoho.comsg
+04-29 12:37:30.035 [Thread-0] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 1dpi48573@zwoho.comsg
+04-29 12:37:38.289 [Thread-2] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 2dpi48573@zwoho.comsg
+04-29 12:37:52.356 [Thread-0] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 1dpi48573@zwoho.comsg
+04-29 12:38:05.439 [Thread-0] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 1dpi48573@zwoho.comsg
+04-29 12:38:05.443 [Thread-2] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 2dpi48573@zwoho.comsg
+04-29 12:38:16.498 [Thread-2] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 2dpi48573@zwoho.comsg
+04-29 12:38:37.847 [Thread-0] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 1dpi48573@zwoho.comsg
+04-29 12:38:44.997 [Thread-0] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 1dpi48573@zwoho.comsg
+04-29 12:38:57.397 [Thread-2] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 2dpi48573@zwoho.comsg
+04-29 12:38:59.048 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 1dpi48573@zwoho.comsg
+04-29 12:39:03.582 [Thread-2] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 2dpi48573@zwoho.comsg
+04-29 12:39:14.465 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 2dpi48573@zwoho.comsg
+04-29 12:39:27.445 [Thread-0] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 1dpi48573@zwoho.comsg
+04-29 12:39:29.336 [Thread-2] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 2dpi48573@zwoho.comsg
+04-29 12:39:32.418 [Thread-3] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 3dpi48573@zwoho.comsg
+04-29 12:39:36.266 [Thread-4] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 4dpi48573@zwoho.comsg
+04-29 12:39:37.123 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 1dpi48573@zwoho.comsg
+04-29 12:39:39.869 [Thread-5] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 5dpi48573@zwoho.comsg
+04-29 12:39:40.197 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 2dpi48573@zwoho.comsg
+04-29 12:39:42.732 [Thread-6] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 6dpi48573@zwoho.comsg
+04-29 12:39:45.344 [Thread-7] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 7dpi48573@zwoho.comsg
+04-29 12:39:46.508 [Thread-3] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 3dpi48573@zwoho.comsg
+04-29 12:39:48.145 [Thread-8] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 8dpi48573@zwoho.comsg
+04-29 12:39:49.990 [Thread-4] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 4dpi48573@zwoho.comsg
+04-29 12:39:51.584 [Thread-9] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 9dpi48573@zwoho.comsg
+04-29 12:39:57.714 [Thread-10] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 10dpi48573@zwoho.comsg
+04-29 12:39:58.311 [Thread-5] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 5dpi48573@zwoho.comsg
+04-29 12:40:01.466 [Thread-6] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 6dpi48573@zwoho.comsg
+04-29 12:40:04.575 [Thread-11] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 11dpi48573@zwoho.comsg
+04-29 12:40:07.980 [Thread-12] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 12dpi48573@zwoho.comsg
+04-29 12:40:08.717 [Thread-13] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 14dpi48573@zwoho.comsg
+04-29 12:40:09.075 [Thread-10] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin 10dpi48573@zwoho.comsg
+04-29 12:40:09.076 [Thread-10] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 10dpi48573@zwoho.comsg
+04-29 12:40:10.660 [Thread-8] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 8dpi48573@zwoho.comsg
+04-29 12:40:11.164 [Thread-7] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 7dpi48573@zwoho.comsg
+04-29 12:40:11.542 [Thread-14] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 15dpi48573@zwoho.comsg
+04-29 12:40:11.980 [Thread-9] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 9dpi48573@zwoho.comsg
+04-29 12:40:14.516 [Thread-15] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 16dpi48573@zwoho.comsg
+04-29 12:40:18.027 [Thread-16] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 17dpi48573@zwoho.comsg
+04-29 12:40:20.549 [Thread-17] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 18dpi48573@zwoho.comsg
+04-29 12:40:28.854 [Thread-18] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 19dpi48573@zwoho.comsg
+04-29 12:40:28.891 [Thread-11] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 11dpi48573@zwoho.comsg
+04-29 12:40:29.147 [Thread-20] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 21dpi48573@zwoho.comsg
+04-29 12:40:29.399 [Thread-19] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 20dpi48573@zwoho.comsg
+04-29 12:40:38.577 [Thread-16] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin 17dpi48573@zwoho.comsg
+04-29 12:40:38.578 [Thread-16] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 17dpi48573@zwoho.comsg
+04-29 12:40:38.672 [Thread-10] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 10dpi48573@zwoho.comsg
+04-29 12:40:40.500 [Thread-12] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 12dpi48573@zwoho.comsg
+04-29 12:40:40.600 [Thread-10] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:112)ine - Error en uploadDocumentInivted 10dpi48573@zwoho.comsg
+04-29 12:40:40.601 [Thread-10] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 10dpi48573@zwoho.comsg
+04-29 12:40:40.653 [Thread-10] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 10dpi48573@zwoho.comsg
+04-29 12:40:41.578 [Thread-14] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 15dpi48573@zwoho.comsg
+04-29 12:40:41.674 [Thread-13] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 14dpi48573@zwoho.comsg
+04-29 12:40:50.262 [Thread-16] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 17dpi48573@zwoho.comsg
+04-29 12:40:52.644 [Thread-16] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:112)ine - Error en uploadDocumentInivted 17dpi48573@zwoho.comsg
+04-29 12:40:52.644 [Thread-16] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 17dpi48573@zwoho.comsg
+04-29 12:40:52.648 [Thread-16] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 17dpi48573@zwoho.comsg
+04-29 12:41:05.556 [Thread-17] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 18dpi48573@zwoho.comsg
+04-29 12:41:06.846 [Thread-15] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 16dpi48573@zwoho.comsg
+04-29 12:41:07.242 [Thread-0] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 1dpi48573@zwoho.comsg
+04-29 12:41:10.330 [Thread-2] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 2dpi48573@zwoho.comsg
+04-29 12:41:10.355 [Thread-9] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 9dpi48573@zwoho.comsg
+04-29 12:41:11.663 [Thread-20] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 21dpi48573@zwoho.comsg
+04-29 12:41:12.996 [Thread-19] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 20dpi48573@zwoho.comsg
+04-29 12:41:24.432 [Thread-3] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 3dpi48573@zwoho.comsg
+04-29 12:41:28.928 [Thread-4] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 4dpi48573@zwoho.comsg
+04-29 12:41:30.443 [Thread-8] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 8dpi48573@zwoho.comsg
+04-29 12:41:32.153 [Thread-5] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 5dpi48573@zwoho.comsg
+04-29 12:41:39.184 [Thread-6] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 6dpi48573@zwoho.comsg
+04-29 12:41:39.783 [Thread-7] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 7dpi48573@zwoho.comsg
+04-29 12:41:50.274 [Thread-11] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 11dpi48573@zwoho.comsg
+04-29 12:41:53.200 [Thread-13] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 14dpi48573@zwoho.comsg
+04-29 12:41:58.707 [Thread-12] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 12dpi48573@zwoho.comsg
+04-29 12:41:59.033 [Thread-14] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 15dpi48573@zwoho.comsg
+04-29 12:42:14.592 [Thread-15] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 16dpi48573@zwoho.comsg
+04-29 12:42:16.169 [Thread-20] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 21dpi48573@zwoho.comsg
+04-29 12:42:16.616 [Thread-17] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 18dpi48573@zwoho.comsg
+04-29 12:42:24.201 [Thread-19] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 20dpi48573@zwoho.comsg
+04-29 12:42:37.590 [Thread-18] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin 19dpi48573@zwoho.comsg
+04-29 12:42:37.590 [Thread-18] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 19dpi48573@zwoho.comsg
+04-29 12:42:38.311 [Thread-18] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 19dpi48573@zwoho.comsg
+04-29 12:42:38.483 [Thread-18] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:112)ine - Error en uploadDocumentInivted 19dpi48573@zwoho.comsg
+04-29 12:42:38.483 [Thread-18] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 19dpi48573@zwoho.comsg
+04-29 12:42:38.497 [Thread-18] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 19dpi48573@zwoho.comsg
+04-29 12:42:53.245 [Thread-2] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 2dpi48573@zwoho.comsg
+04-29 12:42:58.559 [Thread-0] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 1dpi48573@zwoho.comsg
+04-29 12:43:06.308 [Thread-8] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:178)ine - Error en signDocument 8dpi48573@zwoho.com org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".a_menu"}
+  (Session info: chrome=90.0.4430.93)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'AF-PC', ip: '10.12.13.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\af\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:62114}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b8351bb1cd94d286faccb7086eac90d9
+*** Element info: {Using=class name, value=a_menu}sg
+04-29 12:43:06.308 [Thread-8] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 8dpi48573@zwoho.comsg
+04-29 12:43:07.282 [Thread-8] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 8dpi48573@zwoho.comsg
+04-29 12:43:07.474 [Thread-8] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:90)ine - Error en uploadMultipleDocument 8dpi48573@zwoho.comsg
+04-29 12:43:07.474 [Thread-8] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 8dpi48573@zwoho.comsg
+04-29 12:43:07.497 [Thread-8] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 8dpi48573@zwoho.comsg
+04-29 12:43:11.931 [Thread-9] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 9dpi48573@zwoho.comsg
+04-29 12:43:25.509 [Thread-4] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 4dpi48573@zwoho.comsg
+04-29 12:43:29.514 [Thread-3] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 3dpi48573@zwoho.comsg
+04-29 12:43:35.606 [Thread-5] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 5dpi48573@zwoho.comsg
+04-29 12:43:56.717 [Thread-6] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 6dpi48573@zwoho.comsg
+04-29 12:44:02.584 [Thread-7] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 7dpi48573@zwoho.comsg
+04-29 12:44:05.221 [Thread-13] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 14dpi48573@zwoho.comsg
+04-29 12:44:08.923 [Thread-11] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 11dpi48573@zwoho.comsg
+04-29 12:44:18.425 [Thread-12] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 12dpi48573@zwoho.comsg
+04-29 12:44:33.213 [Thread-0] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 1dpi48573@zwoho.comsg
+04-29 12:44:35.264 [Thread-17] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 18dpi48573@zwoho.comsg
+04-29 12:44:38.552 [Thread-9] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 9dpi48573@zwoho.comsg
+04-29 12:44:38.596 [Thread-14] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 15dpi48573@zwoho.comsg
+04-29 12:44:39.847 [Thread-15] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 16dpi48573@zwoho.comsg
+04-29 12:44:40.608 [Thread-4] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 4dpi48573@zwoho.comsg
+04-29 12:44:40.622 [Thread-2] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 2dpi48573@zwoho.comsg
+04-29 12:44:47.659 [Thread-20] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 21dpi48573@zwoho.comsg
+04-29 12:44:48.609 [Thread-3] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 3dpi48573@zwoho.comsg
+04-29 12:44:50.857 [Thread-19] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 20dpi48573@zwoho.comsg
+04-29 12:44:55.535 [Thread-5] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 5dpi48573@zwoho.comsg
+04-29 12:44:58.881 [Thread-6] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 6dpi48573@zwoho.comsg
+04-29 12:45:04.244 [Thread-7] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 7dpi48573@zwoho.comsg
+04-29 12:45:05.112 [Thread-13] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 14dpi48573@zwoho.comsg
+04-29 12:45:14.828 [Thread-11] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 11dpi48573@zwoho.comsg
+04-29 12:45:28.132 [Thread-12] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 12dpi48573@zwoho.comsg
+04-29 12:45:33.113 [Thread-14] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 15dpi48573@zwoho.comsg
+04-29 12:45:42.986 [Thread-15] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 16dpi48573@zwoho.comsg
+04-29 12:45:48.466 [Thread-20] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 21dpi48573@zwoho.comsg
+04-29 12:45:48.662 [Thread-17] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 18dpi48573@zwoho.comsg
+04-29 12:45:55.174 [Thread-19] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 20dpi48573@zwoho.comsg
+04-29 12:48:09.380 [Thread-3] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 3dpi48573@zwoho.comsg
+04-29 12:48:16.372 [Thread-4] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 4dpi48573@zwoho.comsg
+04-29 12:48:23.178 [Thread-5] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 5dpi48573@zwoho.comsg
+04-29 12:48:41.191 [Thread-7] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 7dpi48573@zwoho.comsg
+04-29 12:48:48.390 [Thread-11] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 11dpi48573@zwoho.comsg
+04-29 12:48:49.549 [Thread-9] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 9dpi48573@zwoho.comsg
+04-29 12:48:51.378 [Thread-6] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 6dpi48573@zwoho.comsg
+04-29 12:48:55.391 [Thread-14] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 15dpi48573@zwoho.comsg
+04-29 12:48:55.942 [Thread-0] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 1dpi48573@zwoho.comsg
+04-29 12:49:02.448 [Thread-2] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 2dpi48573@zwoho.comsg
+04-29 12:49:03.224 [Thread-17] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 18dpi48573@zwoho.comsg
+04-29 12:49:04.936 [Thread-13] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 14dpi48573@zwoho.comsg
+04-29 12:49:14.013 [Thread-3] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 3dpi48573@zwoho.comsg
+04-29 12:49:15.125 [Thread-19] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 20dpi48573@zwoho.comsg
+04-29 12:49:15.798 [Thread-20] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 21dpi48573@zwoho.comsg
+04-29 12:49:20.958 [Thread-4] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 4dpi48573@zwoho.comsg
+04-29 12:49:22.466 [Thread-12] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 12dpi48573@zwoho.comsg
+04-29 12:49:27.822 [Thread-5] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 5dpi48573@zwoho.comsg
+04-29 12:49:46.161 [Thread-9] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 9dpi48573@zwoho.comsg
+04-29 12:49:46.212 [Thread-7] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 7dpi48573@zwoho.comsg
+04-29 12:49:49.381 [Thread-15] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 16dpi48573@zwoho.comsg
+04-29 12:49:53.199 [Thread-11] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 11dpi48573@zwoho.comsg
+04-29 12:49:54.179 [Thread-6] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 6dpi48573@zwoho.comsg
+04-29 12:49:58.793 [Thread-0] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 1dpi48573@zwoho.comsg
+04-29 12:50:00.699 [Thread-17] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 18dpi48573@zwoho.comsg
+04-29 12:50:00.982 [Thread-14] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 15dpi48573@zwoho.comsg
+04-29 12:50:08.833 [Thread-2] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 2dpi48573@zwoho.comsg
+04-29 12:50:11.176 [Thread-13] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 14dpi48573@zwoho.comsg
+04-29 12:50:14.942 [Thread-20] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 21dpi48573@zwoho.comsg
+04-29 12:50:17.700 [Thread-12] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 12dpi48573@zwoho.comsg
+04-29 12:50:18.783 [Thread-5] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 5dpi48573@zwoho.comsg
+04-29 12:50:20.215 [Thread-19] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 20dpi48573@zwoho.comsg
+04-29 12:50:25.093 [Thread-4] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 4dpi48573@zwoho.comsg
+04-29 12:50:39.396 [Thread-15] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 16dpi48573@zwoho.comsg
+04-29 12:50:41.777 [Thread-9] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 9dpi48573@zwoho.comsg
+04-29 12:51:24.211 [Thread-12] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 12dpi48573@zwoho.comsg
+04-29 12:51:27.978 [Thread-15] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 16dpi48573@zwoho.comsg
+04-29 12:51:48.522 [Thread-3] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:238)ine - Error en cancelDocument 3dpi48573@zwoho.comsg
+04-29 12:51:48.523 [Thread-3] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 3dpi48573@zwoho.comsg
+04-29 12:52:26.278 [Thread-7] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:238)ine - Error en cancelDocument 7dpi48573@zwoho.comsg
+04-29 12:52:26.278 [Thread-7] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 7dpi48573@zwoho.comsg
+04-29 12:52:27.728 [Thread-11] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:238)ine - Error en cancelDocument 11dpi48573@zwoho.comsg
+04-29 12:52:27.728 [Thread-11] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 11dpi48573@zwoho.comsg
+04-29 12:52:29.217 [Thread-6] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:238)ine - Error en cancelDocument 6dpi48573@zwoho.comsg
+04-29 12:52:29.217 [Thread-6] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 6dpi48573@zwoho.comsg
+04-29 12:52:33.790 [Thread-0] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:238)ine - Error en cancelDocument 1dpi48573@zwoho.comsg
+04-29 12:52:33.790 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 1dpi48573@zwoho.comsg
+04-29 12:52:35.255 [Thread-17] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:238)ine - Error en cancelDocument 18dpi48573@zwoho.comsg
+04-29 12:52:35.256 [Thread-17] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 18dpi48573@zwoho.comsg
+04-29 12:52:35.488 [Thread-14] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:238)ine - Error en cancelDocument 15dpi48573@zwoho.comsg
+04-29 12:52:35.488 [Thread-14] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 15dpi48573@zwoho.comsg
+04-29 12:52:44.013 [Thread-2] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:238)ine - Error en cancelDocument 2dpi48573@zwoho.comsg
+04-29 12:52:44.014 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 2dpi48573@zwoho.comsg
+04-29 12:52:46.108 [Thread-13] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:238)ine - Error en cancelDocument 14dpi48573@zwoho.comsg
+04-29 12:52:46.108 [Thread-13] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 14dpi48573@zwoho.comsg
+04-29 12:52:49.798 [Thread-20] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:238)ine - Error en cancelDocument 21dpi48573@zwoho.comsg
+04-29 12:52:49.798 [Thread-20] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 21dpi48573@zwoho.comsg
+04-29 12:52:55.319 [Thread-19] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:238)ine - Error en cancelDocument 20dpi48573@zwoho.comsg
+04-29 12:52:55.319 [Thread-19] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 20dpi48573@zwoho.comsg
+04-29 12:58:05.882 [Thread-0] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 1dpi48573@zwoho.comsg
+04-29 12:58:07.960 [Thread-2] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 2dpi48573@zwoho.comsg
+04-29 12:58:10.977 [Thread-3] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 3dpi48573@zwoho.comsg
+04-29 12:58:13.989 [Thread-4] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 4dpi48573@zwoho.comsg
+04-29 12:58:14.346 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 1dpi48573@zwoho.comsg
+04-29 12:58:16.595 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 2dpi48573@zwoho.comsg
+04-29 12:58:17.043 [Thread-5] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 5dpi48573@zwoho.comsg
+04-29 12:58:20.225 [Thread-6] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 6dpi48573@zwoho.comsg
+04-29 12:58:21.735 [Thread-3] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 3dpi48573@zwoho.comsg
+04-29 12:58:23.444 [Thread-7] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 7dpi48573@zwoho.comsg
+04-29 12:58:25.113 [Thread-4] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 4dpi48573@zwoho.comsg
+04-29 12:58:26.367 [Thread-8] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 8dpi48573@zwoho.comsg
+04-29 12:58:29.628 [Thread-9] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 9dpi48573@zwoho.comsg
+04-29 12:58:30.314 [Thread-5] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 5dpi48573@zwoho.comsg
+04-29 12:58:32.697 [Thread-10] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 10dpi48573@zwoho.comsg
+04-29 12:58:34.798 [Thread-6] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 6dpi48573@zwoho.comsg
+04-29 12:58:36.558 [Thread-11] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 11dpi48573@zwoho.comsg
+04-29 12:58:37.850 [Thread-7] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 7dpi48573@zwoho.comsg
+04-29 12:58:39.034 [Thread-12] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 12dpi48573@zwoho.comsg
+04-29 12:58:39.216 [Thread-10] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin 10dpi48573@zwoho.comsg
+04-29 12:58:39.216 [Thread-10] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 10dpi48573@zwoho.comsg
+04-29 12:58:41.803 [Thread-13] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 14dpi48573@zwoho.comsg
+04-29 12:58:45.015 [Thread-14] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 15dpi48573@zwoho.comsg
+04-29 12:58:45.815 [Thread-9] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 9dpi48573@zwoho.comsg
+04-29 12:58:47.895 [Thread-15] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 16dpi48573@zwoho.comsg
+04-29 12:58:51.464 [Thread-16] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 17dpi48573@zwoho.comsg
+04-29 12:58:54.391 [Thread-11] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 11dpi48573@zwoho.comsg
+04-29 12:58:57.479 [Thread-12] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 12dpi48573@zwoho.comsg
+04-29 12:58:59.465 [Thread-13] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 14dpi48573@zwoho.comsg
+04-29 12:58:59.481 [Thread-17] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 18dpi48573@zwoho.comsg
+04-29 12:58:59.730 [Thread-0] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 1dpi48573@zwoho.comsg
+04-29 12:59:02.207 [Thread-18] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 19dpi48573@zwoho.comsg
+04-29 12:59:02.394 [Thread-16] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin 17dpi48573@zwoho.comsg
+04-29 12:59:02.394 [Thread-16] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 17dpi48573@zwoho.comsg
+04-29 12:59:03.478 [Thread-19] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 20dpi48573@zwoho.comsg
+04-29 12:59:06.115 [Thread-2] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 2dpi48573@zwoho.comsg
+04-29 12:59:08.701 [Thread-14] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 15dpi48573@zwoho.comsg
+04-29 12:59:08.843 [Thread-20] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 21dpi48573@zwoho.comsg
+04-29 12:59:12.088 [Thread-10] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 10dpi48573@zwoho.comsg
+04-29 12:59:17.218 [Thread-3] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 3dpi48573@zwoho.comsg
+04-29 12:59:18.605 [Thread-10] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:112)ine - Error en uploadDocumentInivted 10dpi48573@zwoho.comsg
+04-29 12:59:18.606 [Thread-10] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 10dpi48573@zwoho.comsg
+04-29 12:59:18.629 [Thread-10] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 10dpi48573@zwoho.comsg
+04-29 12:59:23.312 [Thread-20] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 21dpi48573@zwoho.comsg
+04-29 12:59:30.244 [Thread-16] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 17dpi48573@zwoho.comsg
+04-29 12:59:30.644 [Thread-16] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:112)ine - Error en uploadDocumentInivted 17dpi48573@zwoho.comsg
+04-29 12:59:30.644 [Thread-16] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 17dpi48573@zwoho.comsg
+04-29 12:59:30.660 [Thread-16] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 17dpi48573@zwoho.comsg
+04-29 12:59:36.070 [Thread-17] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 18dpi48573@zwoho.comsg
+04-29 12:59:39.194 [Thread-4] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 4dpi48573@zwoho.comsg
+04-29 12:59:44.678 [Thread-0] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 1dpi48573@zwoho.comsg
+04-29 12:59:46.047 [Thread-11] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 11dpi48573@zwoho.comsg
+04-29 12:59:46.077 [Thread-5] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 5dpi48573@zwoho.comsg
+04-29 12:59:56.709 [Thread-6] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 6dpi48573@zwoho.comsg
+04-29 12:59:56.934 [Thread-7] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 7dpi48573@zwoho.comsg
+04-29 12:59:57.809 [Thread-18] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 19dpi48573@zwoho.comsg
+04-29 12:59:58.806 [Thread-2] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 2dpi48573@zwoho.comsg
+04-29 13:00:00.673 [Thread-19] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 20dpi48573@zwoho.comsg
+04-29 13:00:05.925 [Thread-14] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 15dpi48573@zwoho.comsg
+04-29 13:00:11.479 [Thread-9] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 9dpi48573@zwoho.comsg
+04-29 13:00:12.927 [Thread-3] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 3dpi48573@zwoho.comsg
+04-29 13:00:18.428 [Thread-17] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 18dpi48573@zwoho.comsg
+04-29 13:00:19.390 [Thread-12] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 12dpi48573@zwoho.comsg
+04-29 13:00:22.958 [Thread-13] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 14dpi48573@zwoho.comsg
+04-29 13:00:28.534 [Thread-18] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 19dpi48573@zwoho.comsg
+04-29 13:00:45.923 [Thread-20] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 21dpi48573@zwoho.comsg
+04-29 13:01:02.495 [Thread-0] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 1dpi48573@zwoho.comsg
+04-29 13:01:06.861 [Thread-8] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin 8dpi48573@zwoho.comsg
+04-29 13:01:06.862 [Thread-8] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 8dpi48573@zwoho.comsg
+04-29 13:01:07.626 [Thread-8] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 8dpi48573@zwoho.comsg
+04-29 13:01:07.709 [Thread-8] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:112)ine - Error en uploadDocumentInivted 8dpi48573@zwoho.comsg
+04-29 13:01:07.709 [Thread-8] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 8dpi48573@zwoho.comsg
+04-29 13:01:07.723 [Thread-8] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 8dpi48573@zwoho.comsg
+04-29 13:01:09.629 [Thread-15] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin 16dpi48573@zwoho.comsg
+04-29 13:01:09.629 [Thread-15] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 16dpi48573@zwoho.comsg
+04-29 13:01:10.399 [Thread-15] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 16dpi48573@zwoho.comsg
+04-29 13:01:10.523 [Thread-15] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:112)ine - Error en uploadDocumentInivted 16dpi48573@zwoho.comsg
+04-29 13:01:10.524 [Thread-15] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 16dpi48573@zwoho.comsg
+04-29 13:01:10.535 [Thread-15] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 16dpi48573@zwoho.comsg
+04-29 13:01:16.516 [Thread-19] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 20dpi48573@zwoho.comsg
+04-29 13:01:34.609 [Thread-11] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 11dpi48573@zwoho.comsg
+04-29 13:01:48.428 [Thread-2] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 2dpi48573@zwoho.comsg
+04-29 13:01:54.227 [Thread-4] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 4dpi48573@zwoho.comsg
+04-29 13:01:56.655 [Thread-3] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 3dpi48573@zwoho.comsg
+04-29 13:02:04.177 [Thread-5] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 5dpi48573@zwoho.comsg
+04-29 13:02:19.415 [Thread-6] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 6dpi48573@zwoho.comsg
+04-29 13:02:34.730 [Thread-7] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 7dpi48573@zwoho.comsg
+04-29 13:03:33.455 [Thread-0] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 1dpi48573@zwoho.comsg
+04-29 13:03:35.441 [Thread-2] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 2dpi48573@zwoho.comsg
+04-29 13:03:38.566 [Thread-3] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 3dpi48573@zwoho.comsg
+04-29 13:03:41.330 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 1dpi48573@zwoho.comsg
+04-29 13:03:41.613 [Thread-4] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 4dpi48573@zwoho.comsg
+04-29 13:03:42.530 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 2dpi48573@zwoho.comsg
+04-29 13:03:44.897 [Thread-5] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 5dpi48573@zwoho.comsg
+04-29 13:03:47.764 [Thread-6] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 6dpi48573@zwoho.comsg
+04-29 13:03:47.829 [Thread-3] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 3dpi48573@zwoho.comsg
+04-29 13:03:51.067 [Thread-7] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 7dpi48573@zwoho.comsg
+04-29 13:03:54.057 [Thread-8] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 8dpi48573@zwoho.comsg
+04-29 13:03:54.100 [Thread-4] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 4dpi48573@zwoho.comsg
+04-29 13:03:56.873 [Thread-5] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 5dpi48573@zwoho.comsg
+04-29 13:03:57.180 [Thread-9] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 9dpi48573@zwoho.comsg
+04-29 13:04:00.300 [Thread-10] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 10dpi48573@zwoho.comsg
+04-29 13:04:04.184 [Thread-7] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 7dpi48573@zwoho.comsg
+04-29 13:04:04.341 [Thread-11] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 11dpi48573@zwoho.comsg
+04-29 13:04:06.666 [Thread-8] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 8dpi48573@zwoho.comsg
+04-29 13:04:06.693 [Thread-12] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 12dpi48573@zwoho.comsg
+04-29 13:04:09.599 [Thread-9] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 9dpi48573@zwoho.comsg
+04-29 13:04:10.431 [Thread-13] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 14dpi48573@zwoho.comsg
+04-29 13:04:13.324 [Thread-14] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 15dpi48573@zwoho.comsg
+04-29 13:04:17.073 [Thread-15] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 16dpi48573@zwoho.comsg
+04-29 13:04:20.053 [Thread-16] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 17dpi48573@zwoho.comsg
+04-29 13:04:20.341 [Thread-11] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 11dpi48573@zwoho.comsg
+04-29 13:04:23.511 [Thread-17] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 18dpi48573@zwoho.comsg
+04-29 13:04:27.008 [Thread-18] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 19dpi48573@zwoho.comsg
+04-29 13:04:30.412 [Thread-16] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin 17dpi48573@zwoho.comsg
+04-29 13:04:30.412 [Thread-16] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 17dpi48573@zwoho.comsg
+04-29 13:04:31.596 [Thread-19] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 20dpi48573@zwoho.comsg
+04-29 13:04:34.314 [Thread-20] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 21dpi48573@zwoho.comsg
+04-29 13:04:35.749 [Thread-12] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 12dpi48573@zwoho.comsg
+04-29 13:04:35.826 [Thread-0] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 1dpi48573@zwoho.comsg
+04-29 13:04:53.862 [Thread-17] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 18dpi48573@zwoho.comsg
+04-29 13:04:53.996 [Thread-13] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 14dpi48573@zwoho.comsg
+04-29 13:04:54.593 [Thread-14] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 15dpi48573@zwoho.comsg
+04-29 13:04:57.075 [Thread-2] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 2dpi48573@zwoho.comsg
+04-29 13:04:58.430 [Thread-15] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 16dpi48573@zwoho.comsg
+04-29 13:05:03.806 [Thread-16] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 17dpi48573@zwoho.comsg
+04-29 13:05:04.574 [Thread-16] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:112)ine - Error en uploadDocumentInivted 17dpi48573@zwoho.comsg
+04-29 13:05:04.575 [Thread-16] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 17dpi48573@zwoho.comsg
+04-29 13:05:04.583 [Thread-16] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 17dpi48573@zwoho.comsg
+04-29 13:05:08.097 [Thread-9] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 9dpi48573@zwoho.comsg
+04-29 13:05:09.372 [Thread-18] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 19dpi48573@zwoho.comsg
+04-29 13:05:11.076 [Thread-10] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin 10dpi48573@zwoho.comsg
+04-29 13:05:11.077 [Thread-10] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 10dpi48573@zwoho.comsg
+04-29 13:05:11.497 [Thread-10] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 10dpi48573@zwoho.comsg
+04-29 13:05:11.576 [Thread-10] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:112)ine - Error en uploadDocumentInivted 10dpi48573@zwoho.comsg
+04-29 13:05:11.576 [Thread-10] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 10dpi48573@zwoho.comsg
+04-29 13:05:11.592 [Thread-10] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 10dpi48573@zwoho.comsg
+04-29 13:05:14.064 [Thread-19] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 20dpi48573@zwoho.comsg
+04-29 13:05:14.253 [Thread-3] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 3dpi48573@zwoho.comsg
+04-29 13:05:14.665 [Thread-20] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 21dpi48573@zwoho.comsg
+04-29 13:05:25.232 [Thread-4] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 4dpi48573@zwoho.comsg
+04-29 13:05:30.373 [Thread-5] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 5dpi48573@zwoho.comsg
+04-29 13:05:35.540 [Thread-7] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 7dpi48573@zwoho.comsg
+04-29 13:05:42.433 [Thread-8] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 8dpi48573@zwoho.comsg
+04-29 13:05:42.706 [Thread-11] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 11dpi48573@zwoho.comsg
+04-29 13:05:45.526 [Thread-14] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 15dpi48573@zwoho.comsg
+04-29 13:05:52.834 [Thread-19] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 20dpi48573@zwoho.comsg
+04-29 13:05:55.280 [Thread-0] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 1dpi48573@zwoho.comsg
+04-29 13:06:13.330 [Thread-12] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 12dpi48573@zwoho.comsg
+04-29 13:06:18.489 [Thread-17] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 18dpi48573@zwoho.comsg
+04-29 13:06:22.101 [Thread-13] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 14dpi48573@zwoho.comsg
+04-29 13:06:35.168 [Thread-6] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin 6dpi48573@zwoho.comsg
+04-29 13:06:35.168 [Thread-6] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 6dpi48573@zwoho.comsg
+04-29 13:06:35.765 [Thread-20] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 21dpi48573@zwoho.comsg
+04-29 13:06:36.261 [Thread-6] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 6dpi48573@zwoho.comsg
+04-29 13:06:36.383 [Thread-6] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:112)ine - Error en uploadDocumentInivted 6dpi48573@zwoho.comsg
+04-29 13:06:36.384 [Thread-6] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 6dpi48573@zwoho.comsg
+04-29 13:06:36.397 [Thread-6] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 6dpi48573@zwoho.comsg
+04-29 13:06:43.002 [Thread-15] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 16dpi48573@zwoho.comsg
+04-29 13:06:47.711 [Thread-18] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 19dpi48573@zwoho.comsg
+04-29 13:06:50.339 [Thread-2] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 2dpi48573@zwoho.comsg
+04-29 13:07:27.113 [Thread-13] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 14dpi48573@zwoho.comsg
+04-29 13:07:35.489 [Thread-3] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:178)ine - Error en signDocument 3dpi48573@zwoho.com org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //button[@class="ui-button ui-corner-all ui-widget ui-state-default ui-button-text-only"] (tried for 60 second(s) with 500 milliseconds interval)sg
+04-29 13:07:35.490 [Thread-3] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 3dpi48573@zwoho.comsg
+04-29 13:07:35.500 [Thread-3] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 3dpi48573@zwoho.comsg
+04-29 13:07:35.729 [Thread-3] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 3dpi48573@zwoho.comsg
+04-29 13:07:35.831 [Thread-3] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:90)ine - Error en uploadMultipleDocument 3dpi48573@zwoho.comsg
+04-29 13:07:35.831 [Thread-3] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 3dpi48573@zwoho.comsg
+04-29 13:07:35.848 [Thread-3] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 3dpi48573@zwoho.comsg
+04-29 13:07:38.602 [Thread-9] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:178)ine - Error en signDocument 9dpi48573@zwoho.com org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //button[@class="ui-button ui-corner-all ui-widget ui-state-default ui-button-text-only"] (tried for 60 second(s) with 500 milliseconds interval)sg
+04-29 13:07:38.603 [Thread-9] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 9dpi48573@zwoho.comsg
+04-29 13:07:38.669 [Thread-9] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 9dpi48573@zwoho.comsg
+04-29 13:07:39.076 [Thread-9] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 9dpi48573@zwoho.comsg
+04-29 13:07:39.260 [Thread-9] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:90)ine - Error en uploadMultipleDocument 9dpi48573@zwoho.comsg
+04-29 13:07:39.260 [Thread-9] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 9dpi48573@zwoho.comsg
+04-29 13:07:39.267 [Thread-9] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 9dpi48573@zwoho.comsg
+04-29 13:07:39.360 [Thread-14] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 15dpi48573@zwoho.comsg
+04-29 13:07:42.876 [Thread-4] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:178)ine - Error en signDocument 4dpi48573@zwoho.com org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //button[@class="ui-button ui-corner-all ui-widget ui-state-default ui-button-text-only"] (tried for 60 second(s) with 500 milliseconds interval)sg
+04-29 13:07:42.876 [Thread-4] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 4dpi48573@zwoho.comsg
+04-29 13:07:42.912 [Thread-4] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 4dpi48573@zwoho.comsg
+04-29 13:07:43.044 [Thread-4] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 4dpi48573@zwoho.comsg
+04-29 13:07:43.273 [Thread-4] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:90)ine - Error en uploadMultipleDocument 4dpi48573@zwoho.comsg
+04-29 13:07:43.273 [Thread-4] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 4dpi48573@zwoho.comsg
+04-29 13:07:43.278 [Thread-4] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 4dpi48573@zwoho.comsg
+04-29 13:07:57.269 [Thread-7] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:178)ine - Error en signDocument 7dpi48573@zwoho.com org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //button[@class="ui-button ui-corner-all ui-widget ui-state-default ui-button-text-only"] (tried for 60 second(s) with 500 milliseconds interval)sg
+04-29 13:07:57.270 [Thread-7] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 7dpi48573@zwoho.comsg
+04-29 13:07:57.295 [Thread-7] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 7dpi48573@zwoho.comsg
+04-29 13:07:57.448 [Thread-7] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 7dpi48573@zwoho.comsg
+04-29 13:07:57.592 [Thread-7] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:90)ine - Error en uploadMultipleDocument 7dpi48573@zwoho.comsg
+04-29 13:07:57.593 [Thread-7] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 7dpi48573@zwoho.comsg
+04-29 13:07:57.609 [Thread-7] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 7dpi48573@zwoho.comsg
+04-29 13:08:07.084 [Thread-5] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:178)ine - Error en signDocument 5dpi48573@zwoho.com org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //button[@class="ui-button ui-corner-all ui-widget ui-state-default ui-button-text-only"] (tried for 60 second(s) with 500 milliseconds interval)sg
+04-29 13:08:07.084 [Thread-5] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 5dpi48573@zwoho.comsg
+04-29 13:08:08.234 [Thread-5] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 5dpi48573@zwoho.comsg
+04-29 13:08:08.341 [Thread-5] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:90)ine - Error en uploadMultipleDocument 5dpi48573@zwoho.comsg
+04-29 13:08:08.342 [Thread-5] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 5dpi48573@zwoho.comsg
+04-29 13:08:08.353 [Thread-5] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 5dpi48573@zwoho.comsg
+04-29 13:08:10.679 [Thread-11] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:178)ine - Error en signDocument 11dpi48573@zwoho.com org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //button[@class="ui-button ui-corner-all ui-widget ui-state-default ui-button-text-only"] (tried for 60 second(s) with 500 milliseconds interval)sg
+04-29 13:08:10.679 [Thread-11] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 11dpi48573@zwoho.comsg
+04-29 13:08:11.089 [Thread-11] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 11dpi48573@zwoho.comsg
+04-29 13:08:11.208 [Thread-11] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:90)ine - Error en uploadMultipleDocument 11dpi48573@zwoho.comsg
+04-29 13:08:11.209 [Thread-11] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 11dpi48573@zwoho.comsg
+04-29 13:08:11.219 [Thread-11] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 11dpi48573@zwoho.comsg
+04-29 13:08:14.545 [Thread-8] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:178)ine - Error en signDocument 8dpi48573@zwoho.com org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //button[@class="ui-button ui-corner-all ui-widget ui-state-default ui-button-text-only"] (tried for 60 second(s) with 500 milliseconds interval)sg
+04-29 13:08:14.545 [Thread-8] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 8dpi48573@zwoho.comsg
+04-29 13:08:14.953 [Thread-8] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 8dpi48573@zwoho.comsg
+04-29 13:08:15.041 [Thread-8] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:90)ine - Error en uploadMultipleDocument 8dpi48573@zwoho.comsg
+04-29 13:08:15.042 [Thread-8] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 8dpi48573@zwoho.comsg
+04-29 13:08:15.055 [Thread-8] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 8dpi48573@zwoho.comsg
+04-29 13:08:23.014 [Thread-19] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:178)ine - Error en signDocument 20dpi48573@zwoho.com org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //button[@class="ui-button ui-corner-all ui-widget ui-state-default ui-button-text-only"] (tried for 60 second(s) with 500 milliseconds interval)sg
+04-29 13:08:23.014 [Thread-19] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 20dpi48573@zwoho.comsg
+04-29 13:08:23.427 [Thread-19] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 20dpi48573@zwoho.comsg
+04-29 13:08:23.619 [Thread-19] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:90)ine - Error en uploadMultipleDocument 20dpi48573@zwoho.comsg
+04-29 13:08:23.619 [Thread-19] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 20dpi48573@zwoho.comsg
+04-29 13:08:23.633 [Thread-19] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 20dpi48573@zwoho.comsg
+04-29 13:08:40.966 [Thread-12] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:178)ine - Error en signDocument 12dpi48573@zwoho.com org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //button[@class="ui-button ui-corner-all ui-widget ui-state-default ui-button-text-only"] (tried for 60 second(s) with 500 milliseconds interval)sg
+04-29 13:08:40.966 [Thread-12] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 12dpi48573@zwoho.comsg
+04-29 13:08:41.368 [Thread-12] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 12dpi48573@zwoho.comsg
+04-29 13:08:41.575 [Thread-12] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:90)ine - Error en uploadMultipleDocument 12dpi48573@zwoho.comsg
+04-29 13:08:41.576 [Thread-12] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 12dpi48573@zwoho.comsg
+04-29 13:08:41.582 [Thread-12] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 12dpi48573@zwoho.comsg
+04-29 13:08:53.496 [Thread-17] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:178)ine - Error en signDocument 18dpi48573@zwoho.com org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#privkey_file"}
+  (Session info: chrome=90.0.4430.93)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'AF-PC', ip: '10.12.13.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\af\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:64229}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 402a10e3f3b20d01451187ab977eba6b
+*** Element info: {Using=id, value=privkey_file}sg
+04-29 13:08:53.497 [Thread-17] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 18dpi48573@zwoho.comsg
+04-29 13:08:53.510 [Thread-17] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 18dpi48573@zwoho.comsg
+04-29 13:08:53.595 [Thread-17] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 18dpi48573@zwoho.comsg
+04-29 13:08:53.798 [Thread-17] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:90)ine - Error en uploadMultipleDocument 18dpi48573@zwoho.comsg
+04-29 13:08:53.798 [Thread-17] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 18dpi48573@zwoho.comsg
+04-29 13:08:53.810 [Thread-17] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 18dpi48573@zwoho.comsg
+04-29 13:08:57.542 [Thread-13] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:90)ine - Error en uploadMultipleDocument 14dpi48573@zwoho.comsg
+04-29 13:08:57.543 [Thread-13] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 14dpi48573@zwoho.comsg
+04-29 13:08:58.079 [Thread-13] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 14dpi48573@zwoho.comsg
+04-29 13:08:59.106 [Thread-13] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:217)ine - Error en signDocument 14dpi48573@zwoho.comsg
+04-29 13:08:59.106 [Thread-13] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 14dpi48573@zwoho.comsg
+04-29 13:08:59.121 [Thread-13] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 14dpi48573@zwoho.comsg
+04-29 13:09:01.019 [Thread-0] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:90)ine - Error en uploadMultipleDocument 1dpi48573@zwoho.comsg
+04-29 13:09:01.020 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 1dpi48573@zwoho.comsg
+04-29 13:09:01.032 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 1dpi48573@zwoho.comsg
+04-29 13:09:01.459 [Thread-0] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 1dpi48573@zwoho.comsg
+04-29 13:09:02.488 [Thread-0] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:217)ine - Error en signDocument 1dpi48573@zwoho.comsg
+04-29 13:09:02.488 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 1dpi48573@zwoho.comsg
+04-29 13:09:02.504 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 1dpi48573@zwoho.comsg
+04-29 13:09:09.898 [Thread-20] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:178)ine - Error en signDocument 21dpi48573@zwoho.com org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#privkey_file"}
+  (Session info: chrome=90.0.4430.93)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'AF-PC', ip: '10.12.13.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\af\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:64289}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d73b494e49b2248f750693f5ddf2e8e1
+*** Element info: {Using=id, value=privkey_file}sg
+04-29 13:09:09.898 [Thread-20] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 21dpi48573@zwoho.comsg
+04-29 13:09:09.912 [Thread-20] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 21dpi48573@zwoho.comsg
+04-29 13:09:09.926 [Thread-14] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:90)ine - Error en uploadMultipleDocument 15dpi48573@zwoho.comsg
+04-29 13:09:09.927 [Thread-14] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 15dpi48573@zwoho.comsg
+04-29 13:09:10.040 [Thread-20] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 21dpi48573@zwoho.comsg
+04-29 13:09:10.236 [Thread-20] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:90)ine - Error en uploadMultipleDocument 21dpi48573@zwoho.comsg
+04-29 13:09:10.236 [Thread-20] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 21dpi48573@zwoho.comsg
+04-29 13:09:10.241 [Thread-20] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 21dpi48573@zwoho.comsg
+04-29 13:09:10.449 [Thread-14] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 15dpi48573@zwoho.comsg
+04-29 13:09:11.488 [Thread-14] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:217)ine - Error en signDocument 15dpi48573@zwoho.comsg
+04-29 13:09:11.488 [Thread-14] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 15dpi48573@zwoho.comsg
+04-29 13:09:11.503 [Thread-14] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 15dpi48573@zwoho.comsg
+04-29 13:09:16.750 [Thread-15] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:178)ine - Error en signDocument 16dpi48573@zwoho.com org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#privkey_file"}
+  (Session info: chrome=90.0.4430.93)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'AF-PC', ip: '10.12.13.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\af\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:64191}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 18dc1f463096164dce35d1137f263ff7
+*** Element info: {Using=id, value=privkey_file}sg
+04-29 13:09:16.750 [Thread-15] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 16dpi48573@zwoho.comsg
+04-29 13:09:16.764 [Thread-15] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 16dpi48573@zwoho.comsg
+04-29 13:09:17.140 [Thread-15] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 16dpi48573@zwoho.comsg
+04-29 13:09:17.295 [Thread-15] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:90)ine - Error en uploadMultipleDocument 16dpi48573@zwoho.comsg
+04-29 13:09:17.295 [Thread-15] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 16dpi48573@zwoho.comsg
+04-29 13:09:17.309 [Thread-15] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 16dpi48573@zwoho.comsg
+04-29 13:09:21.911 [Thread-18] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:178)ine - Error en signDocument 19dpi48573@zwoho.com org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#privkey_file"}
+  (Session info: chrome=90.0.4430.93)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'AF-PC', ip: '10.12.13.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\af\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:64247}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 35c4957753fbd9a865fe24d2b9cdb519
+*** Element info: {Using=id, value=privkey_file}sg
+04-29 13:09:21.911 [Thread-18] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 19dpi48573@zwoho.comsg
+04-29 13:09:21.926 [Thread-18] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 19dpi48573@zwoho.comsg
+04-29 13:09:21.998 [Thread-18] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 19dpi48573@zwoho.comsg
+04-29 13:09:22.232 [Thread-18] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:90)ine - Error en uploadMultipleDocument 19dpi48573@zwoho.comsg
+04-29 13:09:22.232 [Thread-18] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 19dpi48573@zwoho.comsg
+04-29 13:09:22.247 [Thread-18] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 19dpi48573@zwoho.comsg
+04-29 13:09:24.955 [Thread-2] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:90)ine - Error en uploadMultipleDocument 2dpi48573@zwoho.comsg
+04-29 13:09:24.955 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 2dpi48573@zwoho.comsg
+04-29 13:09:24.970 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 2dpi48573@zwoho.comsg
+04-29 13:09:25.345 [Thread-2] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 2dpi48573@zwoho.comsg
+04-29 13:09:26.366 [Thread-2] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:217)ine - Error en signDocument 2dpi48573@zwoho.comsg
+04-29 13:09:26.366 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 2dpi48573@zwoho.comsg
+04-29 13:09:26.381 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 2dpi48573@zwoho.comsg
+04-29 15:53:31.990 [Thread-0] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 1dpi48573@zwoho.comsg
+04-29 15:53:33.913 [Thread-2] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 2dpi48573@zwoho.comsg
+04-29 15:53:36.857 [Thread-3] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 3dpi48573@zwoho.comsg
+04-29 15:53:40.279 [Thread-4] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 4dpi48573@zwoho.comsg
+04-29 15:53:43.860 [Thread-5] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 5dpi48573@zwoho.comsg
+04-29 15:53:45.662 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 2dpi48573@zwoho.comsg
+04-29 15:53:45.823 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 1dpi48573@zwoho.comsg
+04-29 15:53:46.462 [Thread-3] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 3dpi48573@zwoho.comsg
+04-29 15:53:46.627 [Thread-6] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 6dpi48573@zwoho.comsg
+04-29 15:53:49.386 [Thread-7] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 7dpi48573@zwoho.comsg
+04-29 15:53:51.161 [Thread-4] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 4dpi48573@zwoho.comsg
+04-29 15:53:53.656 [Thread-8] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 8dpi48573@zwoho.comsg
+04-29 15:53:54.575 [Thread-5] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 5dpi48573@zwoho.comsg
+04-29 15:53:56.079 [Thread-9] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 9dpi48573@zwoho.comsg
+04-29 15:53:58.793 [Thread-10] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 10dpi48573@zwoho.comsg
+04-29 15:54:01.758 [Thread-6] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 6dpi48573@zwoho.comsg
+04-29 15:54:07.821 [Thread-10] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin 10dpi48573@zwoho.comsg
+04-29 15:54:07.821 [Thread-10] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 10dpi48573@zwoho.comsg
+04-29 15:54:09.065 [Thread-7] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 7dpi48573@zwoho.comsg
+04-29 15:55:24.135 [Thread-0] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 1dpi48573@zwoho.comsg
+04-29 15:55:26.333 [Thread-2] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 2dpi48573@zwoho.comsg
+04-29 15:55:29.494 [Thread-3] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 3dpi48573@zwoho.comsg
+04-29 15:55:32.548 [Thread-4] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 4dpi48573@zwoho.comsg
+04-29 15:55:33.776 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 1dpi48573@zwoho.comsg
+04-29 15:55:33.865 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 2dpi48573@zwoho.comsg
+04-29 15:55:35.498 [Thread-5] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 5dpi48573@zwoho.comsg
+04-29 15:55:37.265 [Thread-3] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 3dpi48573@zwoho.comsg
+04-29 15:55:38.613 [Thread-6] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 6dpi48573@zwoho.comsg
+04-29 15:55:40.943 [Thread-4] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 4dpi48573@zwoho.comsg
+04-29 15:55:42.417 [Thread-7] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 7dpi48573@zwoho.comsg
+04-29 15:55:43.915 [Thread-5] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 5dpi48573@zwoho.comsg
+04-29 15:55:44.942 [Thread-8] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 8dpi48573@zwoho.comsg
+04-29 15:55:48.076 [Thread-9] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 9dpi48573@zwoho.comsg
+04-29 15:55:51.331 [Thread-6] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 6dpi48573@zwoho.comsg
+04-29 15:55:51.460 [Thread-10] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 10dpi48573@zwoho.comsg
+04-29 15:55:58.852 [Thread-10] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin 10dpi48573@zwoho.comsg
+04-29 15:55:58.853 [Thread-10] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 10dpi48573@zwoho.comsg
+04-29 15:56:01.409 [Thread-7] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 7dpi48573@zwoho.comsg
+04-29 15:56:01.770 [Thread-10] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 10dpi48573@zwoho.comsg
+04-29 15:56:01.901 [Thread-10] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:112)ine - Error en uploadDocumentInivted 10dpi48573@zwoho.comsg
+04-29 15:56:01.901 [Thread-10] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 10dpi48573@zwoho.comsg
+04-29 15:56:01.924 [Thread-10] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 10dpi48573@zwoho.comsg
+04-29 15:56:05.630 [Thread-8] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 8dpi48573@zwoho.comsg
+04-29 15:56:08.092 [Thread-9] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 9dpi48573@zwoho.comsg
+04-29 15:56:14.123 [Thread-2] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 2dpi48573@zwoho.comsg
+04-29 15:56:19.532 [Thread-5] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 5dpi48573@zwoho.comsg
+04-29 15:56:29.889 [Thread-0] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 1dpi48573@zwoho.comsg
+04-29 15:56:30.433 [Thread-4] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 4dpi48573@zwoho.comsg
+04-29 15:56:30.731 [Thread-3] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 3dpi48573@zwoho.comsg
+04-29 15:56:31.838 [Thread-6] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 6dpi48573@zwoho.comsg
+04-29 15:56:37.320 [Thread-7] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 7dpi48573@zwoho.comsg
+04-29 15:56:38.731 [Thread-8] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 8dpi48573@zwoho.comsg
+04-29 15:56:39.307 [Thread-9] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 9dpi48573@zwoho.comsg
+04-29 15:57:22.762 [Thread-2] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 2dpi48573@zwoho.comsg
+04-29 15:57:51.994 [Thread-2] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 2dpi48573@zwoho.comsg
+04-29 15:57:55.199 [Thread-0] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 1dpi48573@zwoho.comsg
+04-29 15:57:57.917 [Thread-6] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 6dpi48573@zwoho.comsg
+04-29 15:57:58.255 [Thread-3] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 3dpi48573@zwoho.comsg
+04-29 15:58:13.770 [Thread-8] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 8dpi48573@zwoho.comsg
+04-29 15:58:16.846 [Thread-5] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 5dpi48573@zwoho.comsg
+04-29 15:58:17.318 [Thread-7] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 7dpi48573@zwoho.comsg
+04-29 15:58:19.112 [Thread-4] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 4dpi48573@zwoho.comsg
+04-29 15:58:20.848 [Thread-9] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 9dpi48573@zwoho.comsg
+04-29 15:58:32.050 [Thread-0] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 1dpi48573@zwoho.comsg
+04-29 15:58:39.704 [Thread-6] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 6dpi48573@zwoho.comsg
+04-29 15:58:43.858 [Thread-3] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 3dpi48573@zwoho.comsg
+04-29 15:58:57.140 [Thread-8] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 8dpi48573@zwoho.comsg
+04-29 15:59:00.737 [Thread-7] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 7dpi48573@zwoho.comsg
+04-29 15:59:01.122 [Thread-5] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 5dpi48573@zwoho.comsg
+04-29 15:59:01.440 [Thread-4] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 4dpi48573@zwoho.comsg
+04-29 15:59:03.241 [Thread-9] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 9dpi48573@zwoho.comsg
+04-29 15:59:38.779 [Thread-2] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 2dpi48573@zwoho.comsg
+04-29 15:59:57.708 [Thread-2] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 2dpi48573@zwoho.comsg
+04-29 16:00:28.800 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 2dpi48573@zwoho.comsg
+04-29 16:01:00.147 [Thread-3] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 3dpi48573@zwoho.comsg
+04-29 16:01:08.117 [Thread-6] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 6dpi48573@zwoho.comsg
+04-29 16:01:12.801 [Thread-3] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 3dpi48573@zwoho.comsg
+04-29 16:01:15.853 [Thread-6] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 6dpi48573@zwoho.comsg
+04-29 16:01:38.682 [Thread-4] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 4dpi48573@zwoho.comsg
+04-29 16:01:38.921 [Thread-3] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 3dpi48573@zwoho.comsg
+04-29 16:01:40.910 [Thread-6] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 6dpi48573@zwoho.comsg
+04-29 16:01:52.232 [Thread-7] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 7dpi48573@zwoho.comsg
+04-29 16:01:52.551 [Thread-5] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 5dpi48573@zwoho.comsg
+04-29 16:01:55.658 [Thread-4] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 4dpi48573@zwoho.comsg
+04-29 16:01:57.050 [Thread-8] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 8dpi48573@zwoho.comsg
+04-29 16:01:57.735 [Thread-0] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 1dpi48573@zwoho.comsg
+04-29 16:01:58.296 [Thread-9] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 9dpi48573@zwoho.comsg
+04-29 16:02:06.569 [Thread-7] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 7dpi48573@zwoho.comsg
+04-29 16:02:06.690 [Thread-5] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 5dpi48573@zwoho.comsg
+04-29 16:02:11.672 [Thread-8] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 8dpi48573@zwoho.comsg
+04-29 16:02:12.584 [Thread-0] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 1dpi48573@zwoho.comsg
+04-29 16:02:12.963 [Thread-9] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 9dpi48573@zwoho.comsg
+04-29 16:02:19.531 [Thread-4] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 4dpi48573@zwoho.comsg
+04-29 16:02:31.078 [Thread-7] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 7dpi48573@zwoho.comsg
+04-29 16:02:32.306 [Thread-5] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 5dpi48573@zwoho.comsg
+04-29 16:02:37.235 [Thread-8] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 8dpi48573@zwoho.comsg
+04-29 16:02:39.650 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 1dpi48573@zwoho.comsg
+04-29 16:02:39.869 [Thread-9] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 9dpi48573@zwoho.comsg
+04-29 16:04:48.743 [Thread-0] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 1dpi48573@zwoho.comsg
+04-29 16:04:50.759 [Thread-2] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 2dpi48573@zwoho.comsg
+04-29 16:04:53.647 [Thread-3] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 3dpi48573@zwoho.comsg
+04-29 16:04:56.860 [Thread-4] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 4dpi48573@zwoho.comsg
+04-29 16:05:00.178 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 2dpi48573@zwoho.comsg
+04-29 16:05:00.313 [Thread-5] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 5dpi48573@zwoho.comsg
+04-29 16:05:00.464 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 1dpi48573@zwoho.comsg
+04-29 16:05:03.028 [Thread-3] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 3dpi48573@zwoho.comsg
+04-29 16:05:03.474 [Thread-6] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 6dpi48573@zwoho.comsg
+04-29 16:05:06.579 [Thread-7] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 7dpi48573@zwoho.comsg
+04-29 16:05:09.592 [Thread-8] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 8dpi48573@zwoho.comsg
+04-29 16:05:09.766 [Thread-4] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 4dpi48573@zwoho.comsg
+04-29 16:05:12.933 [Thread-9] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 9dpi48573@zwoho.comsg
+04-29 16:05:16.790 [Thread-10] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 10dpi48573@zwoho.comsg
+04-29 16:05:16.810 [Thread-5] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 5dpi48573@zwoho.comsg
+04-29 16:05:19.818 [Thread-6] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 6dpi48573@zwoho.comsg
+04-29 16:05:21.539 [Thread-7] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 7dpi48573@zwoho.comsg
+04-29 16:05:26.342 [Thread-10] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin 10dpi48573@zwoho.comsg
+04-29 16:05:26.343 [Thread-10] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 10dpi48573@zwoho.comsg
+04-29 16:05:28.003 [Thread-10] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 10dpi48573@zwoho.comsg
+04-29 16:05:30.934 [Thread-10] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:112)ine - Error en uploadDocumentInivted 10dpi48573@zwoho.comsg
+04-29 16:05:30.935 [Thread-10] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 10dpi48573@zwoho.comsg
+04-29 16:05:30.961 [Thread-10] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 10dpi48573@zwoho.comsg
+04-29 16:05:31.584 [Thread-8] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 8dpi48573@zwoho.comsg
+04-29 16:05:31.711 [Thread-9] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 9dpi48573@zwoho.comsg
+04-29 16:05:52.447 [Thread-2] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 2dpi48573@zwoho.comsg
+04-29 16:05:57.111 [Thread-5] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 5dpi48573@zwoho.comsg
+04-29 16:06:06.523 [Thread-4] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 4dpi48573@zwoho.comsg
+04-29 16:06:08.109 [Thread-3] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 3dpi48573@zwoho.comsg
+04-29 16:06:10.710 [Thread-6] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 6dpi48573@zwoho.comsg
+04-29 16:06:11.027 [Thread-0] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 1dpi48573@zwoho.comsg
+04-29 16:06:11.637 [Thread-7] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 7dpi48573@zwoho.comsg
+04-29 16:06:16.049 [Thread-8] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 8dpi48573@zwoho.comsg
+04-29 16:06:16.961 [Thread-9] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 9dpi48573@zwoho.comsg
+04-29 16:07:01.900 [Thread-2] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 2dpi48573@zwoho.comsg
+04-29 16:07:37.130 [Thread-0] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 1dpi48573@zwoho.comsg
+04-29 16:07:40.809 [Thread-2] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 2dpi48573@zwoho.comsg
+04-29 16:07:42.396 [Thread-4] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 4dpi48573@zwoho.comsg
+04-29 16:07:55.422 [Thread-6] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 6dpi48573@zwoho.comsg
+04-29 16:07:59.706 [Thread-8] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 8dpi48573@zwoho.comsg
+04-29 16:08:00.269 [Thread-3] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 3dpi48573@zwoho.comsg
+04-29 16:08:00.730 [Thread-7] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 7dpi48573@zwoho.comsg
+04-29 16:08:04.012 [Thread-9] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 9dpi48573@zwoho.comsg
+04-29 16:08:08.331 [Thread-0] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 1dpi48573@zwoho.comsg
+04-29 16:08:22.639 [Thread-5] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 5dpi48573@zwoho.comsg
+04-29 16:08:25.259 [Thread-4] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 4dpi48573@zwoho.comsg
+04-29 16:08:31.264 [Thread-6] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 6dpi48573@zwoho.comsg
+04-29 16:08:31.762 [Thread-7] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 7dpi48573@zwoho.comsg
+04-29 16:08:37.054 [Thread-8] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 8dpi48573@zwoho.comsg
+04-29 16:08:38.376 [Thread-3] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 3dpi48573@zwoho.comsg
+04-29 16:08:43.018 [Thread-9] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 9dpi48573@zwoho.comsg
+04-29 16:09:11.049 [Thread-5] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 5dpi48573@zwoho.comsg
+04-29 16:09:24.259 [Thread-2] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 2dpi48573@zwoho.comsg
+04-29 16:09:41.408 [Thread-2] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 2dpi48573@zwoho.comsg
+04-29 16:10:25.847 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 2dpi48573@zwoho.comsg
+04-29 16:11:10.516 [Thread-8] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 8dpi48573@zwoho.comsg
+04-29 16:11:12.812 [Thread-9] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 9dpi48573@zwoho.comsg
+04-29 16:11:25.008 [Thread-0] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 1dpi48573@zwoho.comsg
+04-29 16:11:33.624 [Thread-7] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 7dpi48573@zwoho.comsg
+04-29 16:11:35.866 [Thread-8] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 8dpi48573@zwoho.comsg
+04-29 16:11:37.115 [Thread-9] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 9dpi48573@zwoho.comsg
+04-29 16:11:39.591 [Thread-6] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 6dpi48573@zwoho.comsg
+04-29 16:11:40.898 [Thread-4] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 4dpi48573@zwoho.comsg
+04-29 16:11:43.212 [Thread-3] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 3dpi48573@zwoho.comsg
+04-29 16:11:44.299 [Thread-5] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 5dpi48573@zwoho.comsg
+04-29 16:11:46.168 [Thread-0] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 1dpi48573@zwoho.comsg
+04-29 16:11:48.767 [Thread-7] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 7dpi48573@zwoho.comsg
+04-29 16:12:05.369 [Thread-8] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 8dpi48573@zwoho.comsg
+04-29 16:12:05.461 [Thread-6] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 6dpi48573@zwoho.comsg
+04-29 16:12:05.717 [Thread-9] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 9dpi48573@zwoho.comsg
+04-29 16:12:05.945 [Thread-4] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 4dpi48573@zwoho.comsg
+04-29 16:12:06.734 [Thread-3] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 3dpi48573@zwoho.comsg
+04-29 16:12:10.299 [Thread-5] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 5dpi48573@zwoho.comsg
+04-29 16:12:24.586 [Thread-7] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 7dpi48573@zwoho.comsg
+04-29 16:12:25.530 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 1dpi48573@zwoho.comsg
+04-29 16:12:32.059 [Thread-6] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 6dpi48573@zwoho.comsg
+04-29 16:12:36.030 [Thread-4] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 4dpi48573@zwoho.comsg
+04-29 16:12:36.592 [Thread-3] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 3dpi48573@zwoho.comsg
+04-29 16:12:37.974 [Thread-5] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 5dpi48573@zwoho.comsg
+04-29 16:13:45.787 [Thread-0] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 1dpi48573@zwoho.comsg
+04-29 16:13:47.641 [Thread-2] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 2dpi48573@zwoho.comsg
+04-29 16:13:50.739 [Thread-3] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 3dpi48573@zwoho.comsg
+04-29 16:13:53.930 [Thread-4] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 4dpi48573@zwoho.comsg
+04-29 16:13:55.544 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 1dpi48573@zwoho.comsg
+04-29 16:13:57.510 [Thread-5] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 5dpi48573@zwoho.comsg
+04-29 16:13:58.084 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 2dpi48573@zwoho.comsg
+04-29 16:14:00.689 [Thread-6] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 6dpi48573@zwoho.comsg
+04-29 16:14:01.633 [Thread-3] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 3dpi48573@zwoho.comsg
+04-29 16:14:05.052 [Thread-7] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 7dpi48573@zwoho.comsg
+04-29 16:14:05.344 [Thread-4] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 4dpi48573@zwoho.comsg
+04-29 16:14:07.955 [Thread-8] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 8dpi48573@zwoho.comsg
+04-29 16:14:10.337 [Thread-9] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 9dpi48573@zwoho.comsg
+04-29 16:14:11.251 [Thread-5] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 5dpi48573@zwoho.comsg
+04-29 16:14:13.130 [Thread-10] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 10dpi48573@zwoho.comsg
+04-29 16:14:17.601 [Thread-11] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 11dpi48573@zwoho.comsg
+04-29 16:14:19.051 [Thread-7] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 7dpi48573@zwoho.comsg
+04-29 16:14:20.898 [Thread-12] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 12dpi48573@zwoho.comsg
+04-29 16:14:23.981 [Thread-13] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 14dpi48573@zwoho.comsg
+04-29 16:14:24.643 [Thread-10] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin 10dpi48573@zwoho.comsg
+04-29 16:14:24.643 [Thread-10] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 10dpi48573@zwoho.comsg
+04-29 16:14:27.044 [Thread-14] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 15dpi48573@zwoho.comsg
+04-29 16:14:27.176 [Thread-8] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 8dpi48573@zwoho.comsg
+04-29 16:14:35.801 [Thread-9] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 9dpi48573@zwoho.comsg
+04-29 16:14:43.896 [Thread-15] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 16dpi48573@zwoho.comsg
+04-29 16:14:43.900 [Thread-16] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 17dpi48573@zwoho.comsg
+04-29 16:14:44.002 [Thread-18] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 19dpi48573@zwoho.comsg
+04-29 16:14:44.230 [Thread-17] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 18dpi48573@zwoho.comsg
+04-29 16:14:44.716 [Thread-11] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 11dpi48573@zwoho.comsg
+04-29 16:14:44.944 [Thread-19] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 20dpi48573@zwoho.comsg
+04-29 16:14:48.516 [Thread-13] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 14dpi48573@zwoho.comsg
+04-29 16:14:49.009 [Thread-12] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 12dpi48573@zwoho.comsg
+04-29 16:14:50.066 [Thread-20] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 21dpi48573@zwoho.comsg
+04-29 16:14:50.365 [Thread-10] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 10dpi48573@zwoho.comsg
+04-29 16:14:52.506 [Thread-10] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:112)ine - Error en uploadDocumentInivted 10dpi48573@zwoho.comsg
+04-29 16:14:52.506 [Thread-10] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 10dpi48573@zwoho.comsg
+04-29 16:14:52.597 [Thread-10] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 10dpi48573@zwoho.comsg
+04-29 16:14:52.942 [Thread-0] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 1dpi48573@zwoho.comsg
+04-29 16:14:56.259 [Thread-14] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 15dpi48573@zwoho.comsg
+04-29 16:15:00.726 [Thread-16] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin 17dpi48573@zwoho.comsg
+04-29 16:15:00.726 [Thread-16] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 17dpi48573@zwoho.comsg
+04-29 16:15:11.363 [Thread-16] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 17dpi48573@zwoho.comsg
+04-29 16:15:12.007 [Thread-16] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:112)ine - Error en uploadDocumentInivted 17dpi48573@zwoho.comsg
+04-29 16:15:12.007 [Thread-16] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 17dpi48573@zwoho.comsg
+04-29 16:15:12.015 [Thread-16] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 17dpi48573@zwoho.comsg
+04-29 16:15:13.796 [Thread-2] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 2dpi48573@zwoho.comsg
+04-29 16:15:23.301 [Thread-7] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 7dpi48573@zwoho.comsg
+04-29 16:15:28.364 [Thread-3] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 3dpi48573@zwoho.comsg
+04-29 16:15:32.432 [Thread-4] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 4dpi48573@zwoho.comsg
+04-29 16:15:32.694 [Thread-18] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 19dpi48573@zwoho.comsg
+04-29 16:15:33.310 [Thread-20] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 21dpi48573@zwoho.comsg
+04-29 16:15:33.630 [Thread-15] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 16dpi48573@zwoho.comsg
+04-29 16:15:33.647 [Thread-19] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 20dpi48573@zwoho.comsg
+04-29 16:15:34.079 [Thread-17] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 18dpi48573@zwoho.comsg
+04-29 16:15:42.123 [Thread-5] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 5dpi48573@zwoho.comsg
+04-29 16:15:45.440 [Thread-0] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 1dpi48573@zwoho.comsg
+04-29 16:15:45.897 [Thread-8] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 8dpi48573@zwoho.comsg
+04-29 16:16:00.675 [Thread-9] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 9dpi48573@zwoho.comsg
+04-29 16:16:06.415 [Thread-12] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 12dpi48573@zwoho.comsg
+04-29 16:16:13.047 [Thread-11] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 11dpi48573@zwoho.comsg
+04-29 16:16:17.640 [Thread-14] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 15dpi48573@zwoho.comsg
+04-29 16:16:20.433 [Thread-13] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 14dpi48573@zwoho.comsg
+04-29 16:16:31.216 [Thread-7] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 7dpi48573@zwoho.comsg
+04-29 16:16:50.371 [Thread-6] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin 6dpi48573@zwoho.comsg
+04-29 16:16:50.371 [Thread-6] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 6dpi48573@zwoho.comsg
+04-29 16:16:51.444 [Thread-6] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:98)ine - uploadDocumentInivted 6dpi48573@zwoho.comsg
+04-29 16:16:51.628 [Thread-6] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:112)ine - Error en uploadDocumentInivted 6dpi48573@zwoho.comsg
+04-29 16:16:51.628 [Thread-6] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 6dpi48573@zwoho.comsg
+04-29 16:16:51.633 [Thread-6] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 6dpi48573@zwoho.comsg
+04-29 16:16:55.416 [Thread-0] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 1dpi48573@zwoho.comsg
+04-29 16:16:55.829 [Thread-18] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 19dpi48573@zwoho.comsg
+04-29 16:17:00.245 [Thread-2] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 2dpi48573@zwoho.comsg
+04-29 16:17:02.609 [Thread-19] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 20dpi48573@zwoho.comsg
+04-29 16:17:07.359 [Thread-15] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 16dpi48573@zwoho.comsg
+04-29 16:17:10.249 [Thread-17] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 18dpi48573@zwoho.comsg
+04-29 16:17:10.281 [Thread-20] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:145)ine - signDocument 21dpi48573@zwoho.comsg
+04-29 16:17:17.952 [Thread-3] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 3dpi48573@zwoho.comsg
+04-29 16:17:42.830 [Thread-7] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 7dpi48573@zwoho.comsg
+04-29 16:17:53.030 [Thread-4] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 4dpi48573@zwoho.comsg
+04-29 16:18:11.225 [Thread-5] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 5dpi48573@zwoho.comsg
+04-29 16:18:15.361 [Thread-8] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 8dpi48573@zwoho.comsg
+04-29 16:18:15.657 [Thread-9] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 9dpi48573@zwoho.comsg
+04-29 16:18:33.283 [Thread-2] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 2dpi48573@zwoho.comsg
+04-29 16:18:37.433 [Thread-14] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 15dpi48573@zwoho.comsg
+04-29 16:18:39.925 [Thread-0] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:217)ine - Error en signDocument 1dpi48573@zwoho.comsg
+04-29 16:18:39.926 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 1dpi48573@zwoho.comsg
+04-29 16:18:42.849 [Thread-12] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 12dpi48573@zwoho.comsg
+04-29 16:18:42.885 [Thread-0] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 1dpi48573@zwoho.comsg
+04-29 16:18:43.077 [Thread-0] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:68)ine - Error en uploadDocument 1dpi48573@zwoho.comsg
+04-29 16:18:43.078 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 1dpi48573@zwoho.comsg
+04-29 16:18:43.097 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 1dpi48573@zwoho.comsg
+04-29 16:18:43.852 [Thread-11] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 11dpi48573@zwoho.comsg
+04-29 16:18:48.266 [Thread-3] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 3dpi48573@zwoho.comsg
+04-29 16:18:49.167 [Thread-7] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 7dpi48573@zwoho.comsg
+04-29 16:19:00.531 [Thread-13] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 14dpi48573@zwoho.comsg
+04-29 16:19:12.403 [Thread-18] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 19dpi48573@zwoho.comsg
+04-29 16:19:18.466 [Thread-7] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 7dpi48573@zwoho.comsg
+04-29 16:19:21.173 [Thread-4] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 4dpi48573@zwoho.comsg
+04-29 16:19:21.576 [Thread-5] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 5dpi48573@zwoho.comsg
+04-29 16:19:30.764 [Thread-9] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 9dpi48573@zwoho.comsg
+04-29 16:19:31.245 [Thread-8] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 8dpi48573@zwoho.comsg
+04-29 16:19:37.255 [Thread-19] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 20dpi48573@zwoho.comsg
+04-29 16:19:43.565 [Thread-15] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:178)ine - Error en signDocument 16dpi48573@zwoho.com org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#privkey_file"}
+  (Session info: chrome=90.0.4430.93)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'AF-PC', ip: '10.12.13.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\af\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:51571}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0c048871be12bae95e25062127a3ff4f
+*** Element info: {Using=id, value=privkey_file}sg
+04-29 16:19:43.565 [Thread-15] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 16dpi48573@zwoho.comsg
+04-29 16:19:43.568 [Thread-20] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 21dpi48573@zwoho.comsg
+04-29 16:19:44.642 [Thread-15] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 16dpi48573@zwoho.comsg
+04-29 16:19:44.974 [Thread-15] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:90)ine - Error en uploadMultipleDocument 16dpi48573@zwoho.comsg
+04-29 16:19:44.974 [Thread-15] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 16dpi48573@zwoho.comsg
+04-29 16:19:44.985 [Thread-15] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 16dpi48573@zwoho.comsg
+04-29 16:19:48.351 [Thread-17] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:178)ine - Error en signDocument 18dpi48573@zwoho.com org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#privkey_file"}
+  (Session info: chrome=90.0.4430.93)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'AF-PC', ip: '10.12.13.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\af\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:51570}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 12872ae82b99cd04fee58fcf88fa853b
+*** Element info: {Using=id, value=privkey_file}sg
+04-29 16:19:48.351 [Thread-17] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 18dpi48573@zwoho.comsg
+04-29 16:19:49.448 [Thread-17] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:76)ine - uploadMultipleDocument 18dpi48573@zwoho.comsg
+04-29 16:19:49.661 [Thread-17] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:90)ine - Error en uploadMultipleDocument 18dpi48573@zwoho.comsg
+04-29 16:19:49.661 [Thread-17] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 18dpi48573@zwoho.comsg
+04-29 16:19:49.668 [Thread-17] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 18dpi48573@zwoho.comsg
+04-29 16:19:53.300 [Thread-14] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 15dpi48573@zwoho.comsg
+04-29 16:19:54.608 [Thread-12] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 12dpi48573@zwoho.comsg
+04-29 16:19:58.512 [Thread-11] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 11dpi48573@zwoho.comsg
+04-29 16:20:08.194 [Thread-7] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 7dpi48573@zwoho.comsg
+04-29 16:20:08.847 [Thread-13] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 14dpi48573@zwoho.comsg
+04-29 16:20:26.574 [Thread-18] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 19dpi48573@zwoho.comsg
+04-29 16:20:47.286 [Thread-19] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 20dpi48573@zwoho.comsg
+04-29 16:20:50.584 [Thread-20] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:186)ine - multiSignDocument 21dpi48573@zwoho.comsg
+04-29 16:22:00.946 [Thread-18] multiSignDocument - test.portalfirma.CommonFunctions.multiSignDocument(CommonFunctions.java:217)ine - Error en signDocument 19dpi48573@zwoho.comsg
+04-29 16:22:00.946 [Thread-18] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 19dpi48573@zwoho.comsg
+04-29 16:22:02.002 [Thread-18] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 19dpi48573@zwoho.comsg
+04-29 16:22:02.259 [Thread-18] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:68)ine - Error en uploadDocument 19dpi48573@zwoho.comsg
+04-29 16:22:02.260 [Thread-18] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 19dpi48573@zwoho.comsg
+04-29 16:22:02.272 [Thread-18] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:248)ine - Error en logOut 19dpi48573@zwoho.comsg
+04-29 16:22:16.898 [Thread-5] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 5dpi48573@zwoho.comsg
+04-29 16:22:30.132 [Thread-2] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 2dpi48573@zwoho.comsg
+04-29 16:22:45.508 [Thread-4] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 4dpi48573@zwoho.comsg
+04-29 16:22:53.780 [Thread-3] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 3dpi48573@zwoho.comsg
+04-29 16:22:59.823 [Thread-5] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 5dpi48573@zwoho.comsg
+04-29 16:23:10.777 [Thread-13] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 14dpi48573@zwoho.comsg
+04-29 16:23:15.102 [Thread-2] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 2dpi48573@zwoho.comsg
+04-29 16:23:26.081 [Thread-12] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 12dpi48573@zwoho.comsg
+04-29 16:23:34.215 [Thread-4] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 4dpi48573@zwoho.comsg
+04-29 16:23:34.231 [Thread-9] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 9dpi48573@zwoho.comsg
+04-29 16:23:35.539 [Thread-8] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 8dpi48573@zwoho.comsg
+04-29 16:23:44.102 [Thread-3] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 3dpi48573@zwoho.comsg
+04-29 16:23:45.012 [Thread-13] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 14dpi48573@zwoho.comsg
+04-29 16:23:51.752 [Thread-14] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 15dpi48573@zwoho.comsg
+04-29 16:23:56.989 [Thread-5] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 5dpi48573@zwoho.comsg
+04-29 16:24:01.117 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 2dpi48573@zwoho.comsg
+04-29 16:24:04.527 [Thread-12] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 12dpi48573@zwoho.comsg
+04-29 16:24:06.057 [Thread-11] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 11dpi48573@zwoho.comsg
+04-29 16:24:16.610 [Thread-8] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 8dpi48573@zwoho.comsg
+04-29 16:24:20.391 [Thread-9] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 9dpi48573@zwoho.comsg
+04-29 16:24:25.634 [Thread-4] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 4dpi48573@zwoho.comsg
+04-29 16:24:26.916 [Thread-14] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 15dpi48573@zwoho.comsg
+04-29 16:24:27.226 [Thread-3] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 3dpi48573@zwoho.comsg
+04-29 16:24:29.481 [Thread-20] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 21dpi48573@zwoho.comsg
+04-29 16:24:31.791 [Thread-13] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 14dpi48573@zwoho.comsg
+04-29 16:24:32.458 [Thread-11] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 11dpi48573@zwoho.comsg
+04-29 16:24:38.529 [Thread-12] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 12dpi48573@zwoho.comsg
+04-29 16:24:50.061 [Thread-8] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 8dpi48573@zwoho.comsg
+04-29 16:24:51.562 [Thread-19] uploadDocument - test.portalfirma.CommonFunctions.uploadDocument(CommonFunctions.java:60)ine - uploadDocument 20dpi48573@zwoho.comsg
+04-29 16:24:53.897 [Thread-20] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 21dpi48573@zwoho.comsg
+04-29 16:24:54.646 [Thread-9] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 9dpi48573@zwoho.comsg
+04-29 16:24:59.417 [Thread-14] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 15dpi48573@zwoho.comsg
+04-29 16:25:00.864 [Thread-11] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 11dpi48573@zwoho.comsg
+04-29 16:25:00.864 [Thread-19] cancelDocument - test.portalfirma.CommonFunctions.cancelDocument(CommonFunctions.java:225)ine - cancelDocument 20dpi48573@zwoho.comsg
+04-29 16:25:10.267 [Thread-20] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 21dpi48573@zwoho.comsg
+04-29 16:25:16.614 [Thread-19] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:244)ine - logOut 20dpi48573@zwoho.comsg
+04-29 17:02:54.034 [Thread-0] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 1dpi48573@zwoho.comsg
+04-29 17:02:55.815 [Thread-2] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 2dpi48573@zwoho.comsg
+04-29 17:02:58.894 [Thread-3] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 3dpi48573@zwoho.comsg
+04-29 17:03:02.229 [Thread-4] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin 4dpi48573@zwoho.comsg
+04-29 17:03:27.026 [main] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:60)ine - getLogin nueve_test_TGtpBwnD@mail.comsg
+04-29 17:03:32.786 [main] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_TGtpBwnD@mail.comsg
+04-29 17:03:34.412 [Thread-1] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin nueve_test_TGtpBwnD@mail.comsg
+04-29 17:03:37.396 [main] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:60)ine - getLogin nueve_test_PnWqCXQW@mail.comsg
+04-29 17:03:43.011 [main] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:105)ine - Error en getLogin nueve_test_PnWqCXQW@mail.comsg
+04-29 17:03:43.011 [main] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_PnWqCXQW@mail.comsg
+04-29 17:03:43.336 [main] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_PnWqCXQW@mail.comsg
+04-29 17:03:43.476 [main] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:301)ine - Error en logOut nueve_test_PnWqCXQW@mail.comsg
+04-29 17:04:11.804 [Thread-1] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin nueve_test_TGtpBwnD@mail.comsg
+04-29 17:04:11.804 [Thread-1] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_TGtpBwnD@mail.comsg
+04-29 17:04:23.903 [Thread-1] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:301)ine - Error en logOut nueve_test_TGtpBwnD@mail.comsg
+04-29 17:04:46.664 [main] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:60)ine - getLogin nueve_test_j+KIDd7h@mail.comsg
+04-29 17:04:52.546 [main] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:105)ine - Error en getLogin nueve_test_j+KIDd7h@mail.comsg
+04-29 17:04:52.547 [main] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:04:52.833 [main] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:04:52.912 [main] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:301)ine - Error en logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:10:28.716 [Thread-1] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:60)ine - getLogin nueve_test_j+KIDd7h@mail.comsg
+04-29 17:10:29.355 [Thread-2] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin nueve_test_j+KIDd7h@mail.comsg
+04-29 17:10:33.108 [Thread-4] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin nueve_test_9G8u+L1y@mail.comsg
+04-29 17:10:33.113 [Thread-3] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:60)ine - getLogin nueve_test_9G8u+L1y@mail.comsg
+04-29 17:10:37.701 [Thread-6] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:34)ine - getLogin nueve_test_fMm1qYud@mail.comsg
+04-29 17:10:37.972 [Thread-1] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:105)ine - Error en getLogin nueve_test_j+KIDd7h@mail.comsg
+04-29 17:10:37.976 [Thread-1] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:10:38.046 [Thread-5] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:60)ine - getLogin nueve_test_fMm1qYud@mail.comsg
+04-29 17:10:43.802 [Thread-1] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:10:44.239 [Thread-1] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:301)ine - Error en logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:10:44.532 [Thread-6] loginUser - test.portalfirma.CommonFunctions.loginUser(CommonFunctions.java:52)ine - Error en getLogin nueve_test_fMm1qYud@mail.comsg
+04-29 17:10:44.532 [Thread-6] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_fMm1qYud@mail.comsg
+04-29 17:10:45.856 [Thread-5] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:105)ine - Error en getLogin nueve_test_fMm1qYud@mail.comsg
+04-29 17:10:45.857 [Thread-5] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_fMm1qYud@mail.comsg
+04-29 17:10:48.320 [Thread-6] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:151)ine - uploadDocumentInivted nueve_test_fMm1qYud@mail.comsg
+04-29 17:10:48.405 [Thread-6] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:165)ine - Error en uploadDocumentInivted nueve_test_fMm1qYud@mail.comsg
+04-29 17:10:48.406 [Thread-6] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_fMm1qYud@mail.comsg
+04-29 17:10:48.427 [Thread-6] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:301)ine - Error en logOut nueve_test_fMm1qYud@mail.comsg
+04-29 17:10:48.653 [Thread-5] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_fMm1qYud@mail.comsg
+04-29 17:10:50.305 [Thread-5] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:301)ine - Error en logOut nueve_test_fMm1qYud@mail.comsg
+04-29 17:14:20.758 [Thread-0] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:60)ine - getLogin nueve_test_j+KIDd7h@mail.comsg
+04-29 17:14:21.870 [Thread-2] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:60)ine - getLogin nueve_test_9G8u+L1y@mail.comsg
+04-29 17:14:23.947 [Thread-3] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:60)ine - getLogin nueve_test_fMm1qYud@mail.comsg
+04-29 17:14:26.123 [Thread-0] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:105)ine - Error en getLogin nueve_test_j+KIDd7h@mail.comsg
+04-29 17:14:26.123 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:14:26.583 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:151)ine - uploadDocumentInivted nueve_test_j+KIDd7h@mail.comsg
+04-29 17:14:27.194 [Thread-2] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:105)ine - Error en getLogin nueve_test_9G8u+L1y@mail.comsg
+04-29 17:14:27.195 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_9G8u+L1y@mail.comsg
+04-29 17:14:27.664 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:151)ine - uploadDocumentInivted nueve_test_9G8u+L1y@mail.comsg
+04-29 17:14:27.957 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:165)ine - Error en uploadDocumentInivted nueve_test_j+KIDd7h@mail.comsg
+04-29 17:14:27.958 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:14:27.970 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:301)ine - Error en logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:14:29.079 [Thread-3] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:105)ine - Error en getLogin nueve_test_fMm1qYud@mail.comsg
+04-29 17:14:29.079 [Thread-3] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_fMm1qYud@mail.comsg
+04-29 17:14:29.095 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:165)ine - Error en uploadDocumentInivted nueve_test_9G8u+L1y@mail.comsg
+04-29 17:14:29.095 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_9G8u+L1y@mail.comsg
+04-29 17:14:29.110 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:301)ine - Error en logOut nueve_test_9G8u+L1y@mail.comsg
+04-29 17:14:29.409 [Thread-3] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:151)ine - uploadDocumentInivted nueve_test_fMm1qYud@mail.comsg
+04-29 17:14:29.494 [Thread-3] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:165)ine - Error en uploadDocumentInivted nueve_test_fMm1qYud@mail.comsg
+04-29 17:14:29.494 [Thread-3] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_fMm1qYud@mail.comsg
+04-29 17:14:29.507 [Thread-3] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:301)ine - Error en logOut nueve_test_fMm1qYud@mail.comsg
+04-29 17:14:43.363 [Thread-0] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:60)ine - getLogin nueve_test_j+KIDd7h@mail.comsg
+04-29 17:14:44.446 [Thread-2] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:60)ine - getLogin nueve_test_9G8u+L1y@mail.comsg
+04-29 17:14:46.508 [Thread-3] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:60)ine - getLogin nueve_test_fMm1qYud@mail.comsg
+04-29 17:14:48.590 [Thread-0] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:105)ine - Error en getLogin nueve_test_j+KIDd7h@mail.comsg
+04-29 17:14:48.590 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:14:49.092 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:151)ine - uploadDocumentInivted nueve_test_j+KIDd7h@mail.comsg
+04-29 17:14:49.150 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:165)ine - Error en uploadDocumentInivted nueve_test_j+KIDd7h@mail.comsg
+04-29 17:14:49.150 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:14:49.164 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:301)ine - Error en logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:14:49.731 [Thread-2] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:105)ine - Error en getLogin nueve_test_9G8u+L1y@mail.comsg
+04-29 17:14:49.731 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_9G8u+L1y@mail.comsg
+04-29 17:14:50.255 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:151)ine - uploadDocumentInivted nueve_test_9G8u+L1y@mail.comsg
+04-29 17:14:50.317 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:165)ine - Error en uploadDocumentInivted nueve_test_9G8u+L1y@mail.comsg
+04-29 17:14:50.318 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_9G8u+L1y@mail.comsg
+04-29 17:14:50.330 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:301)ine - Error en logOut nueve_test_9G8u+L1y@mail.comsg
+04-29 17:14:51.155 [Thread-3] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:105)ine - Error en getLogin nueve_test_fMm1qYud@mail.comsg
+04-29 17:14:51.156 [Thread-3] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_fMm1qYud@mail.comsg
+04-29 17:14:51.490 [Thread-3] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:151)ine - uploadDocumentInivted nueve_test_fMm1qYud@mail.comsg
+04-29 17:14:52.031 [Thread-3] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:165)ine - Error en uploadDocumentInivted nueve_test_fMm1qYud@mail.comsg
+04-29 17:14:52.031 [Thread-3] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_fMm1qYud@mail.comsg
+04-29 17:14:52.045 [Thread-3] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:301)ine - Error en logOut nueve_test_fMm1qYud@mail.comsg
+04-29 17:15:17.272 [Thread-0] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:60)ine - getLogin nueve_test_j+KIDd7h@mail.comsg
+04-29 17:15:18.441 [Thread-2] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:60)ine - getLogin nueve_test_9G8u+L1y@mail.comsg
+04-29 17:15:20.349 [Thread-3] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:60)ine - getLogin nueve_test_fMm1qYud@mail.comsg
+04-29 17:15:22.746 [Thread-0] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:105)ine - Error en getLogin nueve_test_j+KIDd7h@mail.comsg
+04-29 17:15:22.746 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:15:23.881 [Thread-2] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:105)ine - Error en getLogin nueve_test_9G8u+L1y@mail.comsg
+04-29 17:15:23.882 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_9G8u+L1y@mail.comsg
+04-29 17:15:25.556 [Thread-3] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:105)ine - Error en getLogin nueve_test_fMm1qYud@mail.comsg
+04-29 17:15:25.556 [Thread-3] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_fMm1qYud@mail.comsg
+04-29 17:15:27.341 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:151)ine - uploadDocumentInivted nueve_test_j+KIDd7h@mail.comsg
+04-29 17:15:27.359 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:165)ine - Error en uploadDocumentInivted nueve_test_j+KIDd7h@mail.comsg
+04-29 17:15:27.359 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:15:27.375 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:301)ine - Error en logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:15:28.178 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:151)ine - uploadDocumentInivted nueve_test_9G8u+L1y@mail.comsg
+04-29 17:15:28.195 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:165)ine - Error en uploadDocumentInivted nueve_test_9G8u+L1y@mail.comsg
+04-29 17:15:28.195 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_9G8u+L1y@mail.comsg
+04-29 17:15:28.210 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:301)ine - Error en logOut nueve_test_9G8u+L1y@mail.comsg
+04-29 17:15:29.831 [Thread-3] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:151)ine - uploadDocumentInivted nueve_test_fMm1qYud@mail.comsg
+04-29 17:15:29.847 [Thread-3] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:165)ine - Error en uploadDocumentInivted nueve_test_fMm1qYud@mail.comsg
+04-29 17:15:29.848 [Thread-3] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:297)ine - logOut nueve_test_fMm1qYud@mail.comsg
+04-29 17:15:29.863 [Thread-3] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:301)ine - Error en logOut nueve_test_fMm1qYud@mail.comsg
+04-29 17:15:54.314 [Thread-0] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:60)ine - getLogin nueve_test_j+KIDd7h@mail.comsg
+04-29 17:15:55.328 [Thread-2] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:60)ine - getLogin nueve_test_9G8u+L1y@mail.comsg
+04-29 17:15:57.346 [Thread-3] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:60)ine - getLogin nueve_test_fMm1qYud@mail.comsg
+04-29 17:16:06.127 [Thread-0] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:106)ine - Error en getLogin nueve_test_j+KIDd7h@mail.comsg
+04-29 17:16:06.127 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:298)ine - logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:16:07.035 [Thread-2] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:106)ine - Error en getLogin nueve_test_9G8u+L1y@mail.comsg
+04-29 17:16:07.036 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:298)ine - logOut nueve_test_9G8u+L1y@mail.comsg
+04-29 17:16:09.146 [Thread-3] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:106)ine - Error en getLogin nueve_test_fMm1qYud@mail.comsg
+04-29 17:16:09.147 [Thread-3] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:298)ine - logOut nueve_test_fMm1qYud@mail.comsg
+04-29 17:16:10.814 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:152)ine - uploadDocumentInivted nueve_test_j+KIDd7h@mail.comsg
+04-29 17:16:10.831 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:166)ine - Error en uploadDocumentInivted nueve_test_j+KIDd7h@mail.comsg
+04-29 17:16:10.831 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:298)ine - logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:16:10.846 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:302)ine - Error en logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:16:11.593 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:152)ine - uploadDocumentInivted nueve_test_9G8u+L1y@mail.comsg
+04-29 17:16:11.610 [Thread-2] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:166)ine - Error en uploadDocumentInivted nueve_test_9G8u+L1y@mail.comsg
+04-29 17:16:11.610 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:298)ine - logOut nueve_test_9G8u+L1y@mail.comsg
+04-29 17:16:11.627 [Thread-2] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:302)ine - Error en logOut nueve_test_9G8u+L1y@mail.comsg
+04-29 17:16:13.650 [Thread-3] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:152)ine - uploadDocumentInivted nueve_test_fMm1qYud@mail.comsg
+04-29 17:16:13.667 [Thread-3] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:166)ine - Error en uploadDocumentInivted nueve_test_fMm1qYud@mail.comsg
+04-29 17:16:13.667 [Thread-3] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:298)ine - logOut nueve_test_fMm1qYud@mail.comsg
+04-29 17:16:13.682 [Thread-3] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:302)ine - Error en logOut nueve_test_fMm1qYud@mail.comsg
+04-29 17:20:32.022 [Thread-0] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:60)ine - getLogin nueve_test_j+KIDd7h@mail.comsg
+04-29 17:20:36.840 [Thread-0] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:98)ine - Error en getLogin nueve_test_j+KIDd7h@mail.comsg
+org.openqa.selenium.InvalidArgumentException: invalid argument: File not found : CURENT_PATH\cert.cer
+  (Session info: chrome=90.0.4430.93)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'AF-PC', ip: '10.12.13.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\af\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:61297}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f1bd1e9aa8e62229968fd927884b9a47
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:106)
+	at test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:86)
+	at test.portalfirma.ConcurrentFunctions.run(ConcurrentFunctions.java:38)
+04-29 17:20:36.843 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:290)ine - logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:20:41.199 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:144)ine - uploadDocumentInivted nueve_test_j+KIDd7h@mail.comsg
+04-29 17:20:41.216 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:158)ine - Error en uploadDocumentInivted nueve_test_j+KIDd7h@mail.comsg
+04-29 17:20:41.216 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:290)ine - logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:20:41.230 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:294)ine - Error en logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:28:21.804 [Thread-0] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:60)ine - getLogin nueve_test_j+KIDd7h@mail.comsg
+04-29 17:28:26.436 [Thread-0] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:98)ine - Error en getLogin nueve_test_j+KIDd7h@mail.comsg
+org.openqa.selenium.InvalidArgumentException: invalid argument: File not found : CURENT_PATH\cert.cer
+  (Session info: chrome=90.0.4430.93)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'AF-PC', ip: '10.12.13.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\af\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:61515}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d8951afd59fbdca2d52bcc721f0e2c30
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:106)
+	at test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:86)
+	at test.portalfirma.ConcurrentFunctions.run(ConcurrentFunctions.java:38)
+04-29 17:28:26.438 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:290)ine - logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:28:30.814 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:144)ine - uploadDocumentInivted nueve_test_j+KIDd7h@mail.comsg
+04-29 17:28:30.831 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:158)ine - Error en uploadDocumentInivted nueve_test_j+KIDd7h@mail.comsg
+04-29 17:28:30.832 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:290)ine - logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:28:30.847 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:294)ine - Error en logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:30:04.236 [Thread-0] firstLoginUser - test.portalfirma.CommonFunctions.firstLoginUser(CommonFunctions.java:60)ine - getLogin nueve_test_j+KIDd7h@mail.comsg
+04-29 17:30:18.793 [Thread-0] uploadDocumentInivted - test.portalfirma.CommonFunctions.uploadDocumentInivted(CommonFunctions.java:144)ine - uploadDocumentInivted nueve_test_j+KIDd7h@mail.comsg
+04-29 17:30:43.080 [Thread-0] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:191)ine - signDocument nueve_test_j+KIDd7h@mail.comsg
+04-29 17:32:22.452 [Thread-0] signDocument - test.portalfirma.CommonFunctions.signDocument(CommonFunctions.java:224)ine - Error en signDocument nueve_test_j+KIDd7h@mail.com org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //button[@class="ui-button ui-corner-all ui-widget ui-state-default ui-button-text-only"] (tried for 60 second(s) with 500 milliseconds interval)sg
+04-29 17:32:22.452 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:290)ine - logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:32:23.115 [Thread-0] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:122)ine - uploadMultipleDocument nueve_test_j+KIDd7h@mail.comsg
+04-29 17:32:23.244 [Thread-0] uploadMultipleDocument - test.portalfirma.CommonFunctions.uploadMultipleDocument(CommonFunctions.java:136)ine - Error en uploadMultipleDocument nueve_test_j+KIDd7h@mail.comsg
+04-29 17:32:23.245 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:290)ine - logOut nueve_test_j+KIDd7h@mail.comsg
+04-29 17:32:23.260 [Thread-0] logOut - test.portalfirma.CommonFunctions.logOut(CommonFunctions.java:294)ine - Error en logOut nueve_test_j+KIDd7h@mail.comsg
