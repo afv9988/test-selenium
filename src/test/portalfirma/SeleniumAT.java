@@ -24,8 +24,8 @@ public class SeleniumAT {
      * @param args the command line arguments
      */
 
-    static String PORTAL_FIRMA_URL = "https://afdevs.ddns.net/Portal_Firma_RNE_Web";
-    static String PORTAL_AGENTE_URL = "https://afdevs.ddns.net/Portal_Agente_RNE_Web";
+    static String PORTAL_FIRMA_URL = "https://afdev.ddns.net/Portal_Firma_RNE_Web";
+    static String PORTAL_AGENTE_URL = "https://afdev.ddns.net/Portal_Agente_RNE_Web";
     //static String CURENT_PATH = "C:\\Users\\aoflores\\Documents\\NetBeansProjects\\SeleniumPortalFirma\\src\\resources";
     static String CURENT_PATH = "C:\\Windows\\ServiceProfiles\\LocalService\\.jenkins\\workspace\\SeleniumTriggerGitHub";
 
